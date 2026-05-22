@@ -8,5 +8,5 @@ Ouvretaferme est développé sur du temps bénévole par une association.
 
 Nous ne sommes donc pas en mesure de faire un support individuel, mais nous avons mis en place plusieurs solutions pour que vous puissiez obtenir l'aide dont vous avez besoin, et en retour aider vos collègues quand vous avez des réponses !
 
- <WRAP btn--cta>[[https://asso.ouvretaferme.org/|En savoir plus sur l'association]]</WRAP>
+<wrap btn--cta>[[https://asso.ouvretaferme.org/|En savoir plus sur l'association]]</wrap>
 
