@@ -1,0 +1,48 @@
+====== Principes ergonomiques ======
+
+=== Les grands principes ergonomiques mis en oeuvre sur Ouvretaferme. ===
+
+===== Ouvretaferme propose trois modules =====
+
+  * **Vendre** pour gérer vos ventes, vos factures et vos boutiques en ligne  
+  * **Produire** destiné aux cultures spécialisées pour créer un plan de culture et gérer son planning
+  * **Gestion** pour réaliser la comptabilité et la gestion de votre ferme
+
+Chaque module est accessible depuis le menu principal avec sa propre couleur :
+
+{{:general:design-module.png?400}}
+
+===== Tous les modules fonctionnent de la même manière =====
+
+  * Un module est composé de plusieurs sections qui vous permettent d'accéder aux fonctionnalités métier
+
+  * Des pages d'analyse dans chaque module vous permettent d'analyser vos données pour améliorer vos pratiques
+
+==== En dehors des modules, un menu vous permet de paramétrer votre ferme :  ====
+
+===== Toutes les pages fonctionnent de la même manière =====
+
+Dès que vous voyez une , c'est qu'il y a quelque chose que vous pouvez paramétrer
+
+N'hésitez pas à fouiller un peu partout, vous découvrirez une multitude de fonctionnalités très pratiques.
+
+Dès que vous voyez une , c'est qu'il y a des fonctionnalités à découvrir
+
+Par exemple depuis la page des ventes, vous pouvez n'afficher que les ventes destinées aux particuliers ou aux professionnels, et imprimer vos étiquettes de colisage.
+
+Dès que vous voyez une , c'est que des options sont disponibles
+
+Cette icône permet généralement de personnaliser les pages ou de trier les données.
+
+Dès que vous voyez une , c'est que vous êtes face à une astuce
+
+Vous pouvez soit la lire car les astuces contiennent parfois des informations qui pourraient vous intéresser, soit la cacher définitivement en cliquant sur le bouton approprié.
+
+=== Dès que vous voyez des cases à cocher à côté à gauche d'un tableau, c'est que vous pouvez réaliser des actions groupées ... ===
+
+Dans l'exemple ci-dessous, assignez à plusieurs produits simultanément une nouvelle catégorie. .
+
+=== .. Et lorsque vous voyez une case à cocher à côté d'un titre, c'est qu'elle permet de cocher automatiquement tout ce qui est en dessous ! ===
+
+Dans l'exemple ci-dessous, vous pouvez sélectionner en un clic toutes les interventions Matériel.
+
