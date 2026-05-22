@@ -8,7 +8,7 @@ Ouvretaferme est développé sur du temps bénévole par une association.
 
 Nous ne sommes donc pas en mesure de faire un support individuel, mais nous avons mis en place plusieurs solutions pour que vous puissiez obtenir l'aide dont vous avez besoin, et en retour aider vos collègues quand vous avez des réponses !
 
-<wrap btn--primary>[[https://asso.ouvretaferme.org/|En savoir plus sur l'association]]</wrap>
+<wrap btn--secondary>[[https://asso.ouvretaferme.org/|En savoir plus sur l'association]]</wrap>
 
 ===== Les solutions pour obtenir de l'aide =====
 
@@ -25,7 +25,7 @@ Plusieurs centaines de producteurs ont déjà rejoint cet espace pour :
 
 **Et une fois que vous serez à l'aise avec l'outil, vous pourrez même apporter votre aide à vos collègues !**
 
-<wrap btn--cta>[[https://discord.gg/bdSNc3PpwQ|Recevoir une invitation sur Discord]]</wrap>
+<wrap btn--secondary>[[https://discord.gg/bdSNc3PpwQ|Recevoir une invitation sur Discord]]</wrap>
 
 ==== 2. Utiliser la ferme démo ====
 
