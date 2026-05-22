@@ -20,9 +20,9 @@ Chaque module est accessible depuis le menu principal avec sa propre couleur :
 
   * Des pages d'analyse dans chaque module vous permettent d'analyser vos données pour améliorer vos pratiques
 
-==== En dehors des modules, un menu vous permet de paramétrer votre ferme : ====
-
 {{:general:design-analyze.png?400}}
+
+==== En dehors des modules, un menu vous permet de paramétrer votre ferme : ====
 
 ===== Toutes les pages fonctionnent de la même manière =====
 
