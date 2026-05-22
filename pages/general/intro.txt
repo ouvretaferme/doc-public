@@ -1,0 +1,17 @@
+====== Utiliser Ouvretaferme ======
+
+=== Quelques règles simples pour vous retrouver dans le logiciel. ===
+
+===== Introduction =====
+
+Ouvretaferme est un logiciel conçu pour contribuer à l’autonomie des fermes et soutenir agriculteurs et agricultrices pour réaliser les finalités économiques, sociales et environnementales de leur projet.
+
+Même si nous avons soigné Ouvretaferme pour que son utilisation soit la plus simple et ergonomique possible, il est normal que la prise en main du logiciel soit progressive. C'est un outil, et comme tout outil, il faut prendre le temps de le maîtriser. Rappelez-vous la première fois que vous avez conduit un tracteur !
+
+C'est en ayant défini précisément vos besoins et vos attentes que vous pourrez tirer sur le long terme le meilleur parti de Ouvretaferme pour votre ferme.
+
+==== Pour démarrer ====
+
+  * Découvrez comment obtenir de l'aide
+  * Lisez les grands principes ergonomiques du logiciel
+
