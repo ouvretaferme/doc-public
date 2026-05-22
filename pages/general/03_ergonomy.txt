@@ -24,6 +24,9 @@ Chaque module est accessible depuis le menu principal avec sa propre couleur :
 
 ==== En dehors des modules, un menu vous permet de paramétrer votre ferme : ====
 
+{{:general:design-farm.png?400}}
+
+
 ===== Toutes les pages fonctionnent de la même manière =====
 
 Dès que vous voyez une , c'est qu'il y a quelque chose que vous pouvez paramétrer
