@@ -16,11 +16,12 @@ Chaque module est accessible depuis le menu principal avec sa propre couleur :
 
   * Un module est composé de plusieurs sections qui vous permettent d'accéder aux fonctionnalités métier
 
-{{:general:design-section.png?400}}
+{{:general:design-section.png}}
 
   * Des pages d'analyse dans chaque module vous permettent d'analyser vos données pour améliorer vos pratiques
 
-{{:general:design-analyze.png?400}}
+{{:general:design-analyze.png}}
+
 
 ==== En dehors des modules, un menu vous permet de paramétrer votre ferme : ====
 
