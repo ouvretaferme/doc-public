@@ -10,7 +10,8 @@
 
 Chaque module est accessible depuis le menu principal avec sa propre couleur :
 
-{{:general:design-module.png?400}}
+{{:general:design-module.png}}
+
 
 ===== Tous les modules fonctionnent de la même manière =====
 
