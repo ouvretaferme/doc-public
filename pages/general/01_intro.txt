@@ -13,5 +13,5 @@ C'est en ayant défini précisément vos besoins et vos attentes que vous pourre
 ==== Pour démarrer ====
 
   * [[general:help|Découvrez comment obtenir de l'aide]]
-  * Lisez les grands principes ergonomiques du logiciel
+  * [[general:03_ergonomy|Lisez les grands principes ergonomiques du logiciel]]
 
