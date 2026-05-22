@@ -4,10 +4,9 @@
 
 ===== Ouvretaferme propose trois modules =====
 
-  * **Vendre** pour gérer vos ventes, vos factures et vos boutiques en ligne  
-  * **Produire** destiné aux cultures spécialisées pour créer un plan de culture et gérer son planning
-  * **Gestion** pour réaliser la comptabilité et la gestion de votre ferme
-
+  * **Vendre**  pour gérer vos ventes, vos factures et vos boutiques en ligne
+  * **Produire**  destiné aux cultures spécialisées pour créer un plan de culture et gérer son planning
+  * **Gestion**  pour réaliser la comptabilité et la gestion de votre ferme
 Chaque module est accessible depuis le menu principal avec sa propre couleur :
 
 {{:general:design-module.png?400}}
@@ -18,7 +17,7 @@ Chaque module est accessible depuis le menu principal avec sa propre couleur :
 
   * Des pages d'analyse dans chaque module vous permettent d'analyser vos données pour améliorer vos pratiques
 
-==== En dehors des modules, un menu vous permet de paramétrer votre ferme :  ====
+==== En dehors des modules, un menu vous permet de paramétrer votre ferme : ====
 
 ===== Toutes les pages fonctionnent de la même manière =====
 
