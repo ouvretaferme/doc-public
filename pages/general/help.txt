@@ -1,4 +1,4 @@
-====== Obtenir de l'aide ======
+====== Introduction ======
 
 === Comment faire si vous avez besoin d'être accompagné pour prendre en main le logiciel ? ===
 
@@ -54,7 +54,7 @@ Profitez du fait que Ouvretaferme soit majoritairement gratuit pour créer une f
 
 Une fois que vous avez votre ferme fictive, vous pouvez créer vos clients, produits, ventes pour tester le logiciel sur cette ferme sans conséquence pour votre ferme réelle.
 
-==== 5. Parcourir la documentation  ====
+==== 5. Parcourir la documentation ====
 
 La documentation est encore parcellaire, mais elle apporte de l'aide sur quelques fonctionnalités dont la prise en main n'est pas toujours évidente. Nous la complétons régulièrement en fonction des besoins.
 
