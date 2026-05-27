@@ -18,7 +18,7 @@ Un fichier PDF classique n'est donc pas une facture électronique.
 
 Oui, Ouvretaferme une solution compatible avec la facture électronique.
 
-Nous sommes raccordés avec la plateforme agréée ⏺ SUPER PDP. Lorsque vous utilisez Ouvretaferme pour émettre ou recevoir une facture électronique, nous nous assurons que vos factures transitent bien par la plateforme agréée.
+Nous sommes raccordés avec la plateforme agréée <color blue>⏺ SUPER PDP</color>. Lorsque vous utilisez Ouvretaferme pour émettre ou recevoir une facture électronique, nous nous assurons que vos factures transitent bien par la plateforme agréée.
 
 ===== Qu'est-ce que le e-reporting ? =====
 
@@ -34,14 +34,14 @@ Si vous utilisez Ouvretaferme comme logiciel de facturation et de gestion de cai
 
 Oui, vous pouvez par exemple :
 
-  * Utiliser Ouvretaferme uniquement pour émettre vos factures issues de Ouvretaferme, via ⏺ SUPER PDP
+  * Utiliser Ouvretaferme uniquement pour émettre vos factures issues de Ouvretaferme, via <color blue>⏺ SUPER PDP</color>
   * Utiliser la plateforme agréée conseillée par votre expert·e comptable pour la réception de vos factures électroniques.
 
 ===== Plus de ressources =====
 
-  * Tout savoir sur la facturation électronique pour les entreprises sur economie.gouv.fr\\ https://www.economie.gouv.fr/tout-savoir-sur-la-facturation-electronique-pour-les-entreprises
-  * Guide du e-reporting sur francenum.gouv.fr\\ https://www.francenum.gouv.fr/guides-et-conseils/pilotage-de-lentreprise/dematerialisation-des-documents/facturation-1
-  * FAQ Je découvre la facturation électronique sur impots.gouv.fr\\ https://www.impots.gouv.fr/sites/default/files/media/1_metier/2_professionnel/EV/2_gestion/290_facturation_electronique/faq---fe_je-decouvre-la-facturation-electronique.pdf?v=1773070412
-  * Liste des plateformes agréées sur impots.gouv.fr\\ https://www.impots.gouv.fr/je-consulte-la-liste-des-plateformes-agreees
-  * Norme XP Z-12-012 AFNOR\\ https://www.boutique.afnor.org/fr-fr/norme/xp-z12012/formats-et-profils-des-messages-factures-et-statuts-de-cycle-de-vie-constit/fa300082/466440\\
+  * Tout savoir sur la facturation électronique pour les entreprises sur economie.gouv.fr\\ [[https://www.economie.gouv.fr/tout-savoir-sur-la-facturation-electronique-pour-les-entreprises]]
+  * Guide du e-reporting sur francenum.gouv.fr\\ [[https://www.francenum.gouv.fr/guides-et-conseils/pilotage-de-lentreprise/dematerialisation-des-documents/facturation-1]]
+  * FAQ Je découvre la facturation électronique sur impots.gouv.fr\\ [[https://www.impots.gouv.fr/sites/default/files/media/1_metier/2_professionnel/EV/2_gestion/290_facturation_electronique/faq---fe_je-decouvre-la-facturation-electronique.pdf?v=1773070412]]
+  * Liste des plateformes agréées sur impots.gouv.fr\\ [[https://www.impots.gouv.fr/je-consulte-la-liste-des-plateformes-agreees]]
+  * Norme XP Z-12-012 AFNOR\\ [[https://www.boutique.afnor.org/fr-fr/norme/xp-z12012/formats-et-profils-des-messages-factures-et-statuts-de-cycle-de-vie-constit/fa300082/466440]]\\
 
