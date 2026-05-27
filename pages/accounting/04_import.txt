@@ -1,0 +1,22 @@
+====== Importer des opérations dans le livre journal ======
+
+=== ... et créer les écritures comptables en un clic ===
+
+===== Générer automatiquement les écritures comptables =====
+
+== Pré-requis : Avoir préparé les données de vos factures ==
+
+\\ [[https://youtu.be/urbswJx-YUQ|🎦 Lien vers le tutoriel vidéo]]\\ \\ Pour accéder au récapitulatif des factures avec rapprochement bancaire et des opérations de caisse à importer dans le livre journal, cliquez dans le menu 🪄 **Importer des opérations** : un récapitulatif de toutes les données à importer, mois par mois, de l'exercice comptable, sera présenté.
+
+Seules les opérations de caisse dont les données sont préparées et les factures avec un rapprochement bancaire dont les données sont préparées sont éligibles à l'import dans le livre journal.
+
+En important les **factures avec rapprochement bancaire**, les écritures suivantes sont automatiquement créées :
+
+  * Classe **7** pour tous vos numéros de comptes de produits ou pour la livraison, avec autant d'écritures que de comptes différents
+  * Numéro de compte de TVA **44571**, avec autant d'écritures que de numéros de comptes et taux de TVA différents. \\ //Note : il n'y a pas de ligne d'écriture de TVA si vous avez indiqué ne pas être redevable de la TVA dans les paramètres de votre exercice comptable. Les écritures citées juste au-dessus seront intégrées TTC.//
+  * 🪄 Bonus ! Classe **512** pour le montant total TTC
+
+Le document comptable enregistré sera le numéro de facture.
+
+En important les **opérations de caisse** dans la comptabilité, les écritures dépendront de la configuration du journal de caisse ainsi que de chaque opération.
+
