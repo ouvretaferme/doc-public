@@ -29,9 +29,10 @@ Le seul cas où une écriture de TVA peut être réalisée "seule", c'est pour c
 
 ===== Déclaration de TVA =====
 
-Ouvretaferme vous permet de vérifier plus facilement la TVA que vous avez collectée et la TVA déductible de la période concernée, en consultant toutes vos opérations de ventes et d'achat avec leurs taux et montants de TVA déclarés et calculés. Vous pouvez doubler cette vérification avec le solde de vos comptes de TVA présents dans le Grand livre.
+Ouvretaferme vous permet de vérifier plus facilement la TVA que vous avez collectée et la TVA déductible de la période concernée, en consultant toutes vos opérations de ventes et d'achat avec leurs taux et montants de TVA déclarés et calculés. Vous pouvez doubler cette vérification avec le solde de vos comptes de TVA présents dans le Grand Livre.
 
 Vous pouvez ainsi vérifier la proposition de déclaration de Ouvretaferme compte tenu des écritures comptables que vous avez enregistrées sur cette période.
+
 
 ==== Compléter ma déclaration ====
 
