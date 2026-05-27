@@ -24,7 +24,11 @@ Au final,
 
 Des tutoriels vidéos sont également disponibles sur Youtube. Cliquez sur le petit menu en haut à droite de la vidéo pour voir le sommaire des vidéos disponibles.
 
+Les liens vers les tutoriels vidéos sont identifiés dans la documentation avec le symbole 🎦.
+
 {{youtube>q7YgDDGeZJg}}
+
+
 ===== Préparer mes données =====
 
 ==== Les numéros de compte ====
