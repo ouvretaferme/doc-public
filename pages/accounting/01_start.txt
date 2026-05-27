@@ -72,7 +72,7 @@ L'export sera calculé sur les filtres que vous aurez sélectionnés. Pour avoir
 <color #44446a>⚠ La complétude de l'export est soumise à la complétude de la phase préparatoire. Plus vos données seront remplies, plus votre import sera complet et facile à utiliser par la suite.</color>
 ===== Télécharger l'export précomptable =====
 
-Le fichier CSV téléchargé répond aux normes codifiées à l'article 1.47 A-1 du livre des procédures fiscales (FEC).
+Le fichier CSV téléchargé répond aux normes codifiées à l'[[https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027804775|article 1.47 A-1 du livre des procédures fiscales]] (FEC).
 
   * La première ligne du fichier CSV correspond aux en-têtes qui doivent être recopiées sans modification
   * Le séparateur des colonnes dans le fichier est la virgule (,)
