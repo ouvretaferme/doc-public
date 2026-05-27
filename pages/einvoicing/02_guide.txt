@@ -39,11 +39,11 @@ Les factures électroniques suivent un cycle de vie en passant par différents s
 
 === ① Rendez-vous sur la page de vos factures ===
 
-{{:einvoicing:invoicing-invoice.png?400}}
+{{:einvoicing:invoicing-invoice.png}}
 
 === ② Sélectionnez la facture à envoyer sur la plateforme ===
 
-{{:einvoicing:invoicing-select.png?400}}
+{{:einvoicing:invoicing-select.png}}
 
 === ③ Configurez votre facture électronique ===
 
@@ -53,7 +53,8 @@ Dans le cas où il manque des informations, Ouvretaferme vous demandera de les c
 
 Lorsque vous avez saisi toutes les informations requises, votre facturation est envoyée et vous pouvez suivre son état !
 
-{{:einvoicing:invoicing-show.png?400}}
+{{:einvoicing:invoicing-show.png}}
+
 
 ===== Rapprocher et indiquer l'encaissement d'une facture électroniqueDisponible avec l'adhésion =====
 
