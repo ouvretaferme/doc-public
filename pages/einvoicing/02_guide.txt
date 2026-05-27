@@ -1,6 +1,7 @@
 ====== Guide de démarrage ======
 
-{{:einvoicing:facturation-electronique.png}}
+{{:einvoicing:facturation-electronique.png?400}}
+
 
 ===== Utiliser la plateforme agréée proposée par Ouvretaferme =====
 
