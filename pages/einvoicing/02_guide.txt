@@ -30,7 +30,7 @@ En moins de deux minutes, regardez comment activer votre plateforme agréée sur
 
 ==== En tant qu'acheteur ====
 
-  * Recevoir les factures électroniques envoyées sur vos adresses de facturation électronique enregistrées sur votre compte SUPER PDP
+  * Recevoir les factures électroniques envoyées sur vos adresses de facturation électronique enregistrées sur votre compte <color blue>⏺ SUPER PDP</color>
   * Envoyer les statuts de votre facture : Prise en charge, Approuvée, Refusée ou Paiement transmis
   * Suivre le statut encaissée de la facture, envoyé par votre fournisseur
 
