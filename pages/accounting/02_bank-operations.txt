@@ -56,9 +56,10 @@ Vous pouvez ensuite passer à l'étape suivante : Importer vos factures avec rap
 
 Si vous souhaitez rapprocher manuellement ou partiellement une opération bancaire, il est possible de le faire via le menu de l'opération bancaire accessible avec la roue crantée. Vous pourrez sélectionner le client concerné s'il n'est pas détecté automatiquement, ainsi que la vente, la facture ou la facture électronique à rapprocher, ainsi que le montant.
 
-Après avoir validé ce rapprochement, le paiement de la facture, facture électronique ou de la vente sera indiqué avec une petite icône de banque dans le module de commercialisation.
+Après avoir validé ce rapprochement, le paiement de la facture, facture électronique ou de la vente sera indiqué avec une petite icône 🏦 dans le module de commercialisation.
 
 Vous pouvez ensuite passer à l'étape suivante : Importer vos factures, factures électroniques ou ventes avec rapprochement bancaire dans la comptabilité de Ouvretaferme en quelques clics !
+
 
 ===== Masquer les opérations bancaires =====
 
