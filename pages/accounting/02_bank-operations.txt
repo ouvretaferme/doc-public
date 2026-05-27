@@ -1,0 +1,117 @@
+====== Manipuler les opérations bancaires ======
+
+=== Gérer les flux bancaires avec Ouvretaferme ===
+
+===== Importer les opérations bancaires =====
+
+[[https://youtu.be/imte9VT8tZ0| 🎦 Lien vers le tutoriel vidéo]]\\ \\ Vous pouvez importer les opérations de votre compte en banque en exportant un fichier //OFX//. Si vous ne savez pas ce c'est, contactez votre banque pour qu'elle vous aide à télécharger ce document.\\ Rendez-vous sur la page des opérations bancaires et cliquez sur le bouton **Importer un relevé bancaire** puis sélectionnez votre fichier sur votre ordinateur.
+
+Et c'est tout !
+
+Sur la page des imports, vous pouvez voir le résumé de l'import, et vous verrez tout ce qui a été importé sur la page des opérations bancaires.
+
+==== Comment exporter un fichier OFX depuis le Crédit Agricole ====
+
+{{:accounting:accounting-ofx-ca-1.png}}Cliquez sur **Documents**
+
+{{:accounting:accounting-ofx-ca-2.png}}Puis cliquez sur **Télécharger l'historique des opérations**
+
+Choisissez le compte bancaire, le format **OFX**, la période de transactions puis validez
+
+===== Rapprocher les factures automatiquement avec les opérations bancaires =====
+
+== Pré-requis : Avoir importé les opérations bancaires ==
+
+\\ [[https://youtu.be/kr4eKrZVILw|🎦 Lien vers le tutoriel vidéo]]\\ \\ Il est uniquement possible d'**importer en comptabilité des factures** dont le règlement est **non payé** ou **inexistant**. Les ventes non rattachées à des factures et les points de vente ne sont pas rapprochables automatiquement.
+
+Une fois que vous avez importé vos opérations bancaires, Ouvretaferme vous propose une association entre les opérations bancaires et vos factures qui semblent correspondre. Vous verrez une petite alerte 🔥 dès qu'un rapprochement sera possible.
+
+Les critères de décision sont :
+
+  * 👤 La corrélation entre le tiers détecté dans l'opération bancaire, et le client lié à la facture
+  * € Le montant de l'opération bancaire et de la facture
+  * # La présence de la référence de facture dans la description de l'opération bancaire
+  * 📆 L'adéquation entre la date d'opération bancaire et la date de la facture
+  * 💳 La correspondance entre le mode de règlement détecté dans l'opération bancaire et le mode de règlement indiqué dans la facture
+
+Un score avec un code couleur vous indique le niveau de confiance de Ouvretaferme dans le rapprochement, et les points de vigilance s'il y en a.
+
+Pour chaque suggestion de rapprochement, vous pouvez modifier le mode de règlement détecté via le libellé de l'opération bancaire avec un bouton de validation.
+
+Puis ensuite vous avez le choix :
+
+  * 👍 d'accepter le rapprochement suggéré
+  * //👎 de le refuser.\\ Note : dans ce dernier cas, cette association ne vous sera plus proposée et si une autre association est trouvée, elle vous sera présentée à son tour.//
+
+Après avoir accepté une suggestion de rapprochement, le paiement de la facture ou de la vente sera indiqué avec une petite icône de banque dans le module de commercialisation.
+
+Vous pouvez ensuite passer à l'étape suivante : Importer vos factures avec rapprochement bancaire dans la comptabilité de Ouvretaferme en quelques clics !
+
+===== Rapprocher manuellement les opérations bancaires =====
+
+== Pré-requis : Avoir importé les opérations bancaires ==
+
+Si vous souhaitez rapprocher manuellement ou partiellement une opération bancaire, il est possible de le faire via le menu de l'opération bancaire accessible avec la roue crantée. Vous pourrez sélectionner le client concerné s'il n'est pas détecté automatiquement, ainsi que la vente, la facture ou la facture électronique à rapprocher, ainsi que le montant.
+
+Après avoir validé ce rapprochement, le paiement de la facture, facture électronique ou de la vente sera indiqué avec une petite icône de banque dans le module de commercialisation.
+
+Vous pouvez ensuite passer à l'étape suivante : Importer vos factures, factures électroniques ou ventes avec rapprochement bancaire dans la comptabilité de Ouvretaferme en quelques clics !
+
+===== Masquer les opérations bancaires =====
+
+Si certaines opérations bancaires ne concernent pas votre exploitation et que vous ne souhaitez pas les voir dans la liste, vous pouvez simplement les //Supprimer//.\\ Pas de panique, si vous voulez les réafficher, utilisez le formulaire de recherche, cochez **Afficher les opérations supprimées** et validez : elles seront visibles et vous pourrez les réintégrer si besoin.
+
+===== Créer des écritures comptables à partir d'une opération bancaire =====
+
+== Pré-requis : Avoir créé son premier exercice comptable ==
+
+Il est possible de faire un lien entre une opération bancaire et une ou plusieurs écritures comptables depuis la page des opérations bancaires. Lors de la création des écritures comptables, l'équilibre sera vérifié pour l'ensemble des écritures comptables qui deviendront un groupe non dissociable.
+
+Une écriture de contrepartie en compte 512 sera automatiquement créée et reliée aux écritures comptables concernées.
+
+Attention, il faut veiller à ce que l'équilibre de l'ensemble de vos écritures comptables soit bien respecté. Ouvretaferme vous indiquera un message si ce n'est pas le cas.
+
+Ouvretaferme ne créera jamais d'écriture de contrepartie avec le tiers concerné, que ça soit le compte client 411 ou le compte fournisseur 401, même si le tiers est indiqué.
+
+=== Exemple d'usage : Un achat apparaît sur mon relevé bancaire et rien n'est indiqué dans mon journal à ce sujet. ===
+
+En sélectionnant **Créer des écritures**, vous pourrez saisir votre achat en classe 6, éventuellement son montant de TVA, et valider.
+
+Ouvretaferme créera les écritures suivantes :
+
+① Compte 512 - Banques pour l'opération bancaire
+
+② Compte 6 - Charge pour votre achat (HT)
+
+③ Compte 44566 - TVA sur Biens et Services pour la TVA de votre achat
+
+Le montant de l'écriture de banque ① devra être égal au total des écritures ② + ③
+
+===== Rattacher des écritures comptables à une opération bancaire =====
+
+Si vous avez déjà créé vos écritures comptables, en sélectionnant **Rattacher des écritures**, il sera possible de sélectionner les écritures de contrepartie à l'écriture qui sera créée en compte de banque 512.
+
+Note : Ouvretaferme vous préviendra si les montants ne sont pas équilibrés et le groupe d'écritures nouvellement créé formera un groupe non dissociable.
+
+=== Exemple d'usage : Mon associé·e a enregistré l'achat d'un petit matériel et l'opération bancaire vient d'apparaître sur le relevé. ===
+
+Pré-requis : l'achat doit avoir été saisi dans le journal via une écriture en classe 6 et éventuellement la TVA en compte 44566.
+
+En sélectionnant **Rattacher des écritures**, vous pourrez choisir directement l'écriture comptable.
+
+Ouvretaferme créera uniquement l'écriture comptable du compte banque 512. Les 3 écritures seront liées et équilibrées.
+
+//Ce cas peut se présenter si une personne s'occupe de la comptabilité depuis le compte bancaire tandis que toutes les autres saisissent leurs dépenses au fur et à mesure, par exemple.//
+
+===== Supprimer les écritures comptables d'une opération bancaire =====
+
+La suppression des écritures comptables entraînera la suppression de **toutes** les écritures comptables, y compris l'écriture de banque.
+
+Vous pourrez ensuite à nouveau créer des écritures comptables ou rattacher l'opération bancaire.
+
+===== Dissocier sans supprimer les écritures comptables d'une opération bancaire =====
+
+En dissociant les écritures comptables de leur opération bancaire, l'opération bancaire deviendra à nouveau disponible pour de nouvelles écritures comptables, et le groupe d'écritures comptables deviendra un groupe séparé.
+
+⚠ Attention ! L'écriture en compte de banque 512 sera supprimée car elle n'aura plus de raison d'exister.
+
