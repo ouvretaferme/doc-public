@@ -2,7 +2,9 @@
 
 === Utiliser Ouvretaferme pour tenir sa comptabilité simplement ===
 
-===== Introduction à la comptabilité sur OuvretafermeUtiliser Ouvretaferme pour préparer (puis tenir) sa comptabilité =====
+=== Introduction à la comptabilité sur Ouvretaferme ===
+
+===== Utiliser Ouvretaferme pour préparer (puis tenir) sa comptabilité =====
 
 Sur Ouvretaferme, vous pouvez préparer les données de vos ventes sans être obligé·e·s d'utiliser le logiciel de comptabilité. Cela signifie que :
 
@@ -12,9 +14,11 @@ Sur Ouvretaferme, vous pouvez préparer les données de vos ventes sans être ob
 
 Au final,
 
- Soit vous téléchargez un fichier au format FEC puis l'importez dans votre logiciel de comptabilité habituel\\  Soit vous générez automatiquement les écritures dans le livre journal
+  * Soit vous téléchargez un fichier au format FEC puis l'importez dans votre logiciel de comptabilité habituel
+  * Soit vous générez automatiquement les écritures dans le livre journal
 
 ... C'est **vous qui choisissez** le niveau d'utilisation de la comptabilité proposé par Ouvretaferme !
+
 
 ===== Tutoriels en vidéo =====
 
