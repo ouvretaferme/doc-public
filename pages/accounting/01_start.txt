@@ -78,3 +78,27 @@ Le fichier CSV téléchargé répond aux normes codifiées à l'[[https://www.le
   * Le séparateur des colonnes dans le fichier est la virgule (,)
   * Le fichier doit être enregistré au format UTF-8 ou UTF-16
 
+|  |  |  |  |
+| Nom de l'entête | Type de donnée | Description | Exemple |
+| JournalCode | Code journal | Code sur 2 à 4 caractères du journal | VEN |
+| JournalLib | Libellé du journal | Nom du journal | Ventes |
+| EcritureNum | Numéro de l'écriture | Numéro de l'écriture comptable. Il doit être séquentiel et renseigné par le logiciel comptable, et ne pas comporter de "trou" au niveau de la numérotation. | 123 |
+| EcritureDate | Date de l'écriture | Date de l'écriture comptable. Par défaut c'est la date de livraison de la vente qui est enregistrée, au format AAAAMMJJ. | 20260527 |
+| CompteNum | Numéro de compte | Numéro de compte correspondant à la ligne sur 8 caractères. | 70120000 |
+| CompteLib | Libellé du compte | Le nom au sens du Plan Comptable du compte | Vente de produits végétaux |
+| CompAuxNum | Numéro de compte auxiliaire | Ne sera jamais renseigné. |  |
+| CompAuxLib | Libellé de compte auxiliaire | Ne sera jamais renseigné. |  |
+| PieceRef | Référence de pièce justificative | Généralement le numéro de facture lié à la ligne de vente | FA-123 |
+| PieceDate | Date de la pièce justificative | Soit la date de facture si elle existe, sinon la date de livraison de la vente. | 20260527 |
+| EcritureLib | Libellé de l'écriture | Libellé de l'écriture comptable |  |
+| Debit | Montant au débit | Le montant renseigné pour une vente | 10.50 |
+| Credit | Montant au crédit | Le montant renseigné pour un avoir | 10.50 |
+| EcritureLet | Numéro de lettrage | Ne sera jamais renseigné |  |
+| DateLet | Date du lettrage | Ne sera jamais renseigné |  |
+| ValidDate | Date de validation de l'écriture |  |  |
+| MontantDevise | Montant de la vente en devise (€) | Montant de la vente ou de l'avoir, peut être positif ou négatif. | -5.90 |
+| IDevise | Devise (€) | Sera toujours égal à EUR. | EUR |
+| DateRglt | Date de règlement | La date de livraison sera la date utilisée. | 20260527 |
+| ModeRglt | Mode de règlement | Le mode de règlement enregistré pour la vente | Espèces |
+| NatOp | Nature de l'opération | Le mode de règlement enregistré pour la vente |  |
+
