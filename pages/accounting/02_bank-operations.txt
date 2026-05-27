@@ -16,7 +16,10 @@ Sur la page des imports, vous pouvez voir le résumé de l'import, et vous verre
 
 {{:accounting:accounting-ofx-ca-2.png}}Puis cliquez sur **Télécharger l'historique des opérations**
 
+{{:accounting:accounting-ofx-ca-3.png}}
+
 Choisissez le compte bancaire, le format **OFX**, la période de transactions puis validez
+
 
 ===== Rapprocher les factures automatiquement avec les opérations bancaires =====
 
