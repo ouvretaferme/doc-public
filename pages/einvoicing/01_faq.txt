@@ -1,6 +1,6 @@
 ====== FAQ ======
 
-{{:einvoicing:facturation-electronique.png?300}}
+{{ :einvoicing:facturation-electronique.png?300 }}
 
 
 ===== Qu'est-ce que la facturation électronique ? =====
