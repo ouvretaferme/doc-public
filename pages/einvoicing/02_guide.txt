@@ -17,4 +17,19 @@ Pour commencer à utiliser la facturation électronique sur Ouvretaferme, vous d
 
 En moins de deux minutes, regardez comment activer votre plateforme agréée sur Ouvretaferme et être prêt pour le démarrage de la réforme !
 
-{{youtube>https://youtu.be/dl3BC-RirkI}}
+===== Que permet de faire la facturation électronique ? =====
+
+==== En tant que vendeur ====
+
+  * Envoyer vos factures et factures d'acompte sur la plateforme agréée
+  * Suivre la réception côté acheteur et les changements de statuts de votre client : prise en charge, approuvée, paiement transmis
+  * Marquer la facture encaissée, qui est une **obligation légale**
+
+==== En tant qu'acheteur ====
+
+  * Recevoir les factures électroniques envoyées sur vos adresses de facturation électronique enregistrées sur votre compte SUPER PDP
+  * Envoyer les statuts de votre facture : Prise en charge, Approuvée, Refusée ou Paiement transmis
+  * Suivre le statut encaissée de la facture, envoyé par votre fournisseur
+
+Les factures électroniques suivent un cycle de vie en passant par différents statuts. Certains statuts sont obligatoires et d'autres recommandés et utiles pour suivre l'avancement de la facture.
+
