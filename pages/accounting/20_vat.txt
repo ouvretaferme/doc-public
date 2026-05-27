@@ -1,0 +1,41 @@
+====== La TVA sur Ouvretaferme ======
+
+===== Écritures comptables et règles de TVA =====
+
+Afin de calculer au plus juste la déclaration de TVA, les écritures doivent être ventilées selon la règle de TVA qui leur correspond. Cela permet à l'administration fiscale de vérifier le chiffre d'affaires et les seuils des différents régimes.
+
+La règle renseignée lors de l'enregistrement des écritures sera utilisée pour les calculs de la déclaration de TVA.
+
+|  |  |  |
+| Règle | Explication | Exemples (non exhaustifs) |
+| Avec TVA | Opération imposable à la TVA au taux indiqué | Achat de graines, frais de livraison, vente directe, aide ou subvention versée en contrepartie d'une opération (bien ou service), achat ou cession d'immobilisation.\\ À utiliser aussi pour un achat sans TVA apparente sur la facture (carburant agricole, facture sans mention TVA...). Dans ce cas, indiquer le montant total de la facture comme montant HT et 0% comme taux. |
+| Avec TVA (TVA collectée) | Opération imposable à la TVA au taux indiqué | Ajoute une précision à l'écriture de TVA, lorsque l'écriture HT n'est pas une écriture de vente (classe 7). Cette précision est utile pour le calcul de la déclaration de TVA. |
+| Avec TVA (TVA déductible) | Opération imposable à la TVA au taux indiqué | Ajoute une précision à l'écriture de TVA, lorsque l'écriture HT n'est pas une écriture d'achat (classe 6). Cette précision est utile pour le calcul de la déclaration de TVA. |
+| Exonéré de TVA | Opération qui est dans le champ d'application de la TVA, mais qui n'est pas soumise à la TVA en raison d'une disposition de la loi. En revanche, l'opération entre dans le chiffre d'affaires. | Services financiers et bancaires (art. 261 C), Loyers nus (art. 261 D), Cessions d'immeubles anciens |
+| Exonéré de TVA (export hors UE) | Opération qui est dans le champ d'application de la TVA, mais qui n'est pas soumise à la TVA en raison d'une disposition de la loi. En revanche, l'opération entre dans le chiffre d'affaires. | Exportations hors UE |
+| Exonéré de TVA (livraisons intracommunautaires) | Opération qui est dans le champ d'application de la TVA, mais qui n'est pas soumise à la TVA en raison d'une disposition de la loi. En revanche, l'opération entre dans le chiffre d'affaires. | Livraisons intracommunautaires |
+| Hors chiffre d'affaires | Opération qui n'est pas du chiffre d'affaires à déclarer. | Écritures de régularisation, autoconsommation au régime du micro-BA |
+| Hors champ d'application de la TVA | Opération qui n'entre pas dans le champ d'application de la TVA et ne sera pas considérée comme du chiffre d'affaires. | Indemnité d'assurance, réparations consécutives à des calamités agricoles versées par l'État, salaires (comptes 641), charges sociales (comptes 645), impôts et taxes (comptes 635), amortissements (comptes 681), toutes les écritures en classe 1 |
+
+===== Pourquoi il ne faut pas créer une écriture de TVA "seule" ? =====
+
+Pour répondre à cette question, il faut revenir sur la finalité de la ventilation par montant et taux de TVA.
+
+Dans votre déclaration (mensuelle, trimestrielle ou annuelle) de TVA, l'État demande le montant HT pour chaque taux de TVA et le montant de TVA associé. Hors, en créant une écriture de TVA "seule", Ouvretaferme ne sera pas en mesure d'indiquer quel est le montant HT d'origine ni le taux de TVA qui a été appliqué. Vos déclarations risquent donc d'être incomplètes.
+
+C'est pourquoi une écriture comptable de TVA doit __toujours être créée depuis l'opération HT__ à laquelle elle est rattachée.
+
+Le seul cas où une écriture de TVA peut être réalisée "seule", c'est pour comptabiliser votre déclaration de TVA (et solder vos comptes de TVA collectée et déductible).
+
+===== Déclaration de TVA =====
+
+Ouvretaferme vous permet de vérifier plus facilement la TVA que vous avez collectée et la TVA déductible de la période concernée, en consultant toutes vos opérations de ventes et d'achat avec leurs taux et montants de TVA déclarés et calculés. Vous pouvez doubler cette vérification avec le solde de vos comptes de TVA présents dans le Grand livre.
+
+Vous pouvez ainsi vérifier la proposition de déclaration de Ouvretaferme compte tenu des écritures comptables que vous avez enregistrées sur cette période.
+
+==== Compléter ma déclaration ====
+
+Vous pouvez modifier le formulaire de la déclaration 15 jours avant la date de déclaration limite et jusqu'à 20 jours après cette date.
+
+Une fois que vous aurez terminé votre déclaration, enregistrez-la sur Ouvretaferme puis vous pourrez ensuite l'enregistrer comme déclarée. **N'oubliez pas de la télédéclarer sur le site des impôts** ! Vous pourrez ensuite visualiser les écritures proposées par Ouvretaferme à enregistrer dans votre livre-journal, compte-tenu de la déclaration que vous avez enregistrée sur Ouvretaferme.
+
