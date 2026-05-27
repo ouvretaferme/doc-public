@@ -1,0 +1,44 @@
+====== Démarrer la comptabilité ======
+
+=== Paramétrer sa comptabilité et démarrer à son rythme ! ===
+
+===== Créer le premier exercice comptable =====
+
+[[https://youtu.be/q7YgDDGeZJg|🎦 Lien vers le tutoriel vidéo]]\\ \\ L'exercice comptable est la base de la tenue d'une comptabilité.
+
+Il s'agit de paraméter au mieux les choix effectués pour la ferme afin que le logiciel s'adapte à vos besoins.
+
+Pour le moment, le logiciel de comptabilité de Ouvretaferme est optimisé pour les les fermes remplissant les critères suivants :
+
+  * fermes au micro-BA,
+  * à la comptabilité de trésorerie,
+  * redevables ou non de la TVA.
+
+Toutes les autres fermes peuvent bien sûr utiliser le logiciel de comptabilité de Ouvretaferme, moyennant quelques adaptations dans l'enregistrement des écritures comptables.
+
+===== Importer un fichier FEC =====
+
+Pour importer des exercices précédents, créez votre exercice puis cliquez sur **Importer un fichier FEC**.
+
+Ouvretaferme vous demandera de paramétrer des correspondances entre :
+
+  * vos anciens journaux et ceux qui sont présents sur Ouvretaferme
+  * vos anciens numéros de compte non retrouvés et ceux qui sont présents sur Ouvretaferme
+
+**Pourquoi configurer des numéros de compte ?**
+
+Les Plan Comptable Général et Plan Compable Agricole ont changé en 2025. Ouvretaferme est basé sur cette version, c'est pourquoi certains comptes n'existent pas sur Ouvretaferme alors que vous vous en serviez avant. Vous pouvez les recréer selon vos besoins, et pour éviter de vous en servir ultérieurement, vous pourrez les désactiver par la suite.
+
+**Clôturé ou Ouvert ?**
+
+Lorsque vous importez un fichier FEC, vous pouvez choisir de l'importer comme "clôturé" ou "ouvert". Voici les impacts de ce choix :
+
+  * un exercice importé et qui restera **ouvert** après l'import vous permettra : de continuer à ajouter des écritures dedans, et surtout à réaliser le bilan de clôture (toutes les opérations de fin d'exercice comme les amortissements etc.).
+  * un exercice importé **fermé** ne sera plus modifiable après l'import
+
+Dans les deux cas, l'ouverture de l'exercice suivant reprendra toutes les opérations d'ouverture (écriture du résultat, affectation, reports à nouveau etc.)
+
+===== Et ensuite ? =====
+
+Vous pouvez Importer vos factures avec rapprochement bancaire, [[accounting:02_bank-operations|créer vos écritures comptables à partir de vos opérations bancaires]], ou encore créer directement vos écritures comptables !
+
