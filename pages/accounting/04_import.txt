@@ -1,6 +1,8 @@
-====== Importer des opérations dans le livre journal ======
+====== Importer en comptabilité ======
 
-=== ... et créer les écritures comptables en un clic ===
+==== Importer des opérations dans le livre journal  ====
+
+==== ... et créer les écritures comptables en un clic ====
 
 ===== Générer automatiquement les écritures comptables =====
 
