@@ -80,15 +80,16 @@ Si c'est un encaissement partiel, le fonctionnement est exactement le même, et 
 
 Depuis l'opération bancaire, choisissez de rapprocher l'opération avec une facture électronique que vous avez émise.
 
-{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-reconciliation-manual.png?974010188285762974010188285762}}
+{{:einvoicing:invoicing-reconciliation-manual.png}}
 
 Vous pouvez alors choisir le tiers, la facture, le moyen de paiement et le montant à rapprocher.
 
-{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-reconciliation-manual-choose.png?974010188285762974010188285762}}
+{{:einvoicing:invoicing-reconciliation-manual-choose.png}}
 
 Pour cette facture d'exemple, un encaissement partiel a été enregistré, et il suffira de rapprocher le solde de la facture pour que l'encaissement soit total, sur Ouvretaferme comme sur la plateforme agréée.
 
-{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-reconciliation-manual-partial.png?974010188285762974010188285762}}
+{{:einvoicing:invoicing-reconciliation-manual-partial.png}}
+
 
 ===== Encaisser une facture électronique manuellement =====
 
