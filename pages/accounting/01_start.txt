@@ -69,8 +69,7 @@ La page d'export des données comptables vous permet également de visualiser un
 
 L'export sera calculé sur les filtres que vous aurez sélectionnés. Pour avoir toutes les ventes, réinitialisez le filtre.
 
- La complétude de l'export est soumise à la complétude de la phase préparatoire. Plus vos données seront remplies, plus votre import sera complet et facile à utiliser par la suite.
-
+<color #44446a>⚠ La complétude de l'export est soumise à la complétude de la phase préparatoire. Plus vos données seront remplies, plus votre import sera complet et facile à utiliser par la suite.</color>
 ===== Télécharger l'export précomptable =====
 
 Le fichier CSV téléchargé répond aux normes codifiées à l'article 1.47 A-1 du livre des procédures fiscales (FEC).
