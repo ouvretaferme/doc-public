@@ -1,0 +1,75 @@
+====== Prendre en main le logiciel de comptabilité ======
+
+=== Utiliser Ouvretaferme pour tenir sa comptabilité simplement ===
+
+===== Introduction à la comptabilité sur OuvretafermeUtiliser Ouvretaferme pour préparer (puis tenir) sa comptabilité =====
+
+Sur Ouvretaferme, vous pouvez préparer les données de vos ventes sans être obligé·e·s d'utiliser le logiciel de comptabilité. Cela signifie que :
+
+  * Vous paramétrez le minimum nécessaire de votre comptabilité (journaux, numéros de comptes)
+  * Vous indiquez pour chaque produit à quel compte le rattacher
+  * Vous indiquez le mode de règlement
+
+Au final,
+
+ Soit vous téléchargez un fichier au format FEC puis l'importez dans votre logiciel de comptabilité habituel\\  Soit vous générez automatiquement les écritures dans le livre journal
+
+... C'est **vous qui choisissez** le niveau d'utilisation de la comptabilité proposé par Ouvretaferme !
+
+===== Tutoriels en vidéo =====
+
+Des tutoriels vidéos sont également disponibles sur Youtube. Cliquez sur le petit menu en haut à droite de la vidéo pour voir le sommaire des vidéos disponibles.
+
+===== Préparer mes données =====
+
+==== Les numéros de compte ====
+
+Vous pouvez personnaliser des comptes dans les paramètres de comptabilité.
+
+Vous pouvez également paramétrer des numéros de compte par catégorie de produit dans les paramétrages de commercialisation. Ainsi, toutes les articles vendus seront immédiatement configurés correctement.
+
+==== Les journaux ====
+
+Les journaux peuvent être automatiquement attribués à chaque ligne de vente. Vous pouvez personnaliser vos journaux dans les paramètres de comptabilité. Certains journaux sont préconfigurés pour démarrer plus facilement.
+
+Ensuite, associez un journal à chaque compte de vente de la classe 7 dans les paramètres de comptabilité.
+
+==== Les données sont-elles obligatoires ? ====
+
+Si vous n'utilisez pas le logiciel comptable de Ouvretaferme, il faut avoir avoir uniquement configuré tous vos numéros de compte pour pouvoir télécharger un export de vos ventes et de vos opérations de caisse.
+
+Si des données venaient à manquer, la valeur sera vide.
+
+==== Et pour un import dans la comptabilité ? ====
+
+Ouvretaferme propose d'importer :
+
+  * les **factures avec rapprochement bancaire** dont les articles vendus sont rattachés à des **numéros de compte**
+  * les **opérations des journaux de caisse** qui ne sont plus dans le brouillard de caisse, pour lesquelles la caisse est clôturée à la date d'import, et dont tous les numéros de compte sont renseignés.
+
+===== Export précomptable =====
+
+ Lien vers le tutoriel vidéo\\ \\
+
+==== Où le trouver ? ====
+
+Vous accèderez à la page de synthèse de l'export précomptable depuis un lien dans la page du menu **Précomptabilité**, dans la 3<sup>ème</sup> étape de précomptabilité.
+
+==== Quelles informations contient-il ? ====
+
+Vous retrouverez dans cet export toutes vos factures, ventes non facturées et opérations de journal de caisse avec leur numéro, organisé avec une ligne par compte et par mode de règlement pour chaque vente. Si des paiements sont enregistrés, leur contrepartie est ajoutée. Sinon, aucune contrepartie ne sera automatiquement ajoutée. C'est un export qui respecte le format FEC pour pouvoir être intégré dans votre logiciel comptable.
+
+La page d'export des données comptables vous permet également de visualiser une synthèse selon vos critères de recherche.
+
+L'export sera calculé sur les filtres que vous aurez sélectionnés. Pour avoir toutes les ventes, réinitialisez le filtre.
+
+ La complétude de l'export est soumise à la complétude de la phase préparatoire. Plus vos données seront remplies, plus votre import sera complet et facile à utiliser par la suite.
+
+===== Télécharger l'export précomptable =====
+
+Le fichier CSV téléchargé répond aux normes codifiées à l'article 1.47 A-1 du livre des procédures fiscales (FEC).
+
+  * La première ligne du fichier CSV correspond aux en-têtes qui doivent être recopiées sans modification
+  * Le séparateur des colonnes dans le fichier est la virgule (,)
+  * Le fichier doit être enregistré au format UTF-8 ou UTF-16
+
