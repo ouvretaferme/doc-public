@@ -35,3 +35,81 @@ En moins de deux minutes, regardez comment activer votre plateforme agréée sur
 
 Les factures électroniques suivent un cycle de vie en passant par différents statuts. Certains statuts sont obligatoires et d'autres recommandés et utiles pour suivre l'avancement de la facture.
 
+===== Envoyer une facture sur la plateforme agréée =====
+
+=== ① Rendez-vous sur la page de vos factures ===
+
+{{:einvoicing:invoicing-invoice.png?400}}
+
+=== ② Sélectionnez la facture à envoyer sur la plateforme ===
+
+{{:einvoicing:invoicing-select.png?400}}
+
+=== ③ Configurez votre facture électronique ===
+
+Dans le cas où il manque des informations, Ouvretaferme vous demandera de les compléter. Il est par exemple nécessaire de fournir l'adresse de facturation électronique de votre client.
+
+=== ④ Envoyez sur la plateforme agréée ===
+
+Lorsque vous avez saisi toutes les informations requises, votre facturation est envoyée et vous pouvez suivre son état !
+
+{{:einvoicing:invoicing-show.png?400}}
+
+===== Rapprocher et indiquer l'encaissement d'une facture électroniqueDisponible avec l'adhésion =====
+
+==== Avec le rapprochement automatique ====
+
+Lorsque vos opérations bancaires sont importées, Ouvretaferme vous propose parfois un rapprochement automatique entre les factures, électronique ou non, et certaines opérations bancaires :
+
+{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-reconciliation-auto.png?974010188285762974010188285762}}
+
+Indiquez le moyen de paiement s'il n'a pas été détecté automatiquement, puis rapprochez.
+
+La plateforme agréée sera informée qu'un encaissement du montant indiqué a bien été réalisé pour cette facture :
+
+{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-reconciliation-done.png?974010188285762974010188285762}}
+
+Si c'est un encaissement partiel, le fonctionnement est exactement le même, et vous pourrez ajouter d'autres encaissements.
+
+==== Manuellement ====
+
+Depuis l'opération bancaire, choisissez de rapprocher l'opération avec une facture électronique que vous avez émise.
+
+{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-reconciliation-manual.png?974010188285762974010188285762}}
+
+Vous pouvez alors choisir le tiers, la facture, le moyen de paiement et le montant à rapprocher.
+
+{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-reconciliation-manual-choose.png?974010188285762974010188285762}}
+
+Pour cette facture d'exemple, un encaissement partiel a été enregistré, et il suffira de rapprocher le solde de la facture pour que l'encaissement soit total, sur Ouvretaferme comme sur la plateforme agréée.
+
+{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-reconciliation-manual-partial.png?974010188285762974010188285762}}
+
+===== Encaisser une facture électronique manuellement =====
+
+Comme pour vos ventes et factures, vous pouvez indiquer un règlement pour vos factures électroniques. Cet encaissement sera automatiquement envoyé sur la plateforme agréée.
+
+{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-add-payment.png?974010188285762974010188285762}}
+
+Le règlement, partiel ou total, s'affiche ensuite sur la facture et dans les événements de la facture électronique.
+
+{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-add-partial-payment.png?974010188285762974010188285762}}
+
+===== Les statuts des factures électroniques =====
+
+==== Obligatoires ====
+
+  * **Déposée** : La facture a été envoyée sur la plateforme agréée
+  * **Rejetée** : La facture a été rejetée car elle ne respecte pas les obligations de la facturation électronique, ou pour une raison technique
+  * **Refusée** : La facture a été refusée par le destinataire car elle comporte une erreur (prix, quantité, TVA...)
+  * **Encaissée** : La facture a été réglée
+
+==== Recommandés ====
+
+  * **Prise en charge** : Le client indique que la facture va être traitée
+  * **Approuvée / Approuvée partiellement** : Le client approuve totalement / partiellement la facture
+  * **En litige** : Le client indique qu'il y a un litige sur la facture
+  * **Annulée** : Le client annule la facture
+  * **Suspendue** : Le client suspend la facture
+  * **Paiement transmis** : Le client a envoyé le règlement
+
