@@ -30,7 +30,7 @@ Le **e-reporting** concerne la déclaration des données de transactions et de p
 
 Début 2027, Ouvretaferme proposera une phase pilote pour permettre à toutes les structures de déclarer leurs transactions pour le //e-reporting//.
 
-Si vous utilisez Ouvretaferme comme logiciel de facturation et de gestion de caisse, **Ouvretaferme sera en mesure de calculer automatiquement les données à transmettre dans le cadre du //e-reporting**//.
+Si vous utilisez Ouvretaferme comme logiciel de facturation et de gestion de caisse, **Ouvretaferme sera en mesure de calculer automatiquement les données à transmettre dans le cadre du e-reporting.**
 
 ===== Puis-je utiliser plusieurs plateformes agréées ? =====
 
