@@ -20,6 +20,9 @@ Oui, Ouvretaferme une solution compatible avec la facture électronique.
 
 Nous sommes raccordés avec la plateforme agréée <color blue>⏺ SUPER PDP</color>. Lorsque vous utilisez Ouvretaferme pour émettre ou recevoir une facture électronique, nous nous assurons que vos factures transitent bien par la plateforme agréée.
 
+{{:einvoicing:facturation-electronique-sc.png}}
+
+
 ===== Qu'est-ce que le e-reporting ? =====
 
 Le **e-reporting** concerne la déclaration des données de transactions et de paiements qui ne sont pas couvertes par le e-invoicing, comme les transactions avec des particuliers, ou les transactions entre professionnels à l'international. Au **1<sup>er</sup> septembre 2027**, toutes les entreprises seront concernées par l'obligation de //e-reporting//.
