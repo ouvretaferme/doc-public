@@ -24,6 +24,7 @@ Au final,
 
 Des tutoriels vidéos sont également disponibles sur Youtube. Cliquez sur le petit menu en haut à droite de la vidéo pour voir le sommaire des vidéos disponibles.
 
+{{youtube>q7YgDDGeZJg}}
 ===== Préparer mes données =====
 
 ==== Les numéros de compte ====
