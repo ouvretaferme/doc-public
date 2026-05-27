@@ -1,0 +1,19 @@
+====== Guide de démarrage ======
+
+{{:einvoicing:facturation-electronique.png}}
+
+===== Utiliser la plateforme agréée proposée par Ouvretaferme =====
+
+Ouvretaferme a choisi la plateforme agréée ⏺ SUPER PDP pour vous proposer une solution complète d'envoi et de réception des factures électroniques complètement intégré sur Ouvretaferme.
+
+  * Créez vos adresses de facturation électronique
+  * Recevez toutes vos factures électroniques de vos fournisseurs
+  * Envoyez en un clic vos factures de ventes à vos clients professionnels sur la plateforme agréée
+  * Intégrez automatiquement vos factures électroniques dans votre comptabilité
+
+Pour commencer à utiliser la facturation électronique sur Ouvretaferme, vous devez préalablement suivre le processus d'inscription sur ⏺ SUPER PDP, qui vous permettra d'obtenir une adresse de facturation électronique !
+
+===== Démarrer avec la facturation électronique =====
+
+En moins de deux minutes, regardez comment activer votre plateforme agréée sur Ouvretaferme et être prêt pour le démarrage de la réforme !
+
