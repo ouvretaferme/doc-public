@@ -1,0 +1,59 @@
+====== Le livre des recettes pour le micro-BA ======
+
+=== ... ou comment tenir une comptabilité simplifiée ===
+
+===== Introduction au livre des recettes =====
+
+Au micro-BA, tenir une comptabilité selon les normes du plan comptable agricole n'est pas obligatoire.
+
+Cas ① : Si vous êtes __redevable de la TVA__, vous devez tenir 2 registres :
+
+  * Le **livre-journal des recettes**, tout en conservant les pièces justificatives qui y sont liées
+  * Le **registre des achats** (en conservant également les justificatifs).
+
+Cas ② : Si vous n'êtes __pas redevable de la TVA__, seul le **livre-journal des recettes** est obligatoire.
+
+L'utilisation du mode **livre des recettes pour le micro-BA** de Ouvretaferme respecte le cadre légal défini par le [[https://bofip.impots.gouv.fr/bofip/10609-PGP.html/identifiant=BOI-BA-DECLA-15-20160907|BOI-BA-DECLA-15]] .
+
+===== Comment utiliser Ouvretaferme pour mon livre des recettes et mon registre des achats ? =====
+
+Il s'agit tout simplement d'utiliser le logiciel comptable proposé par Ouvretaferme, mais dans sa version ultra-simplifiée
+
+Dès que possible, Ouvretaferme pré-remplit pour vous les numéros de compte afin que vous ne vous occupiez que des informations réellement importantes.
+
+Vous enregistrez donc :
+
+  * vos **ventes** avec le numéro de compte 70
+  * si vous êtes redevable de la TVA, ou si vous le souhaitez : vos **achats** avec le numéro de compte 60
+  * si votre exploitation n'est pas une entreprise individuelle et que vous le souhaitez, les **mouvements du compte courant d'associé**, avec le numéro de compte 4551
+
+Note : Si vous êtes redevable de la TVA, l'enregistrement d'une écriture de vente ou d'achat avec une règle de TVA et un taux de TVA créera **automatiquement l'écriture de TVA** pour vous.
+
+===== Comment déclarer la TVA ? =====
+
+En tant qu'exploitation au micro-BA, vous pouvez être soumis au régime simplifié de l'agriculture (RSA), si vous avez choisi d'être assujetti·e à la TVA en lieu et place du remboursement forfaitaire de TVA agricole (RFA)
+
+À partir de votre livre des recettes et votre registre des achats, Ouvretaferme vous propose une déclaration de régularisation de TVA annuelle pré-remplie que vous n'avez plus qu'à vérifier et recopier sur votre déclaration de TVA sur le site des impots, que vous retrouvez dans la synthèse de l'exercice.
+
+Vous trouverez plus d'informations sur les conditions pour bénéficier de ce régime, comment payer et comment régulariser annuellement sur le site [[https://entreprendre.service-public.gouv.fr/vosdroits/F35361|service-public.gouv.fr]] .
+
+===== Est-ce que je pourrai utiliser toutes les fonctionnalités de Ouvretaferme en comptabilité simplifiée ? =====
+
+Oui, partiellement ! Même en utilisant le mode **livre des recettes**, vous avez accès :
+
+  * Au livre-journal (qui regroupe le livre des recettes et le registre des achats)
+  * Au grand livre
+  * À la balance
+  * À la gestion (simplifiée) de vos immobilisations
+  * Si vous êtes redevable de la TVA : à votre déclaration de TVA
+  * À l'export au format FEC de toutes vos écritures comptables
+
+En revanche, vous n'aurez pas les synthèses financières tels que le bilan ou le compte de résultat.
+
+===== Que signifient ouverture et clôture d'exercice ? =====
+
+La comptabilité simplifiée au livre des recettes et registre des achats a rendu les rituels d'ouverture et de clôture très simples :
+
+  * En **début d'exercice**, les soldes de vos comptes courants d'associés (numéro 4551), compte bancaire (numéro 512) et compte de caisse (numéro 531) sont reportés depuis l'exercice précédent.
+  * En **fin d'exercice**, aucune écriture ne sera proposée ni réalisée, mais vous pourrez quand même clôturer pour marquer la fin de votre exercice et repartir sur un nouvel exercice !
+
