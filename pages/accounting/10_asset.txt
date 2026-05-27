@@ -13,7 +13,8 @@ Le fichier CSV que vous importez doit comporter une ligne par immobilisation, et
   * La première ligne du fichier CSV correspond aux en-têtes qui doivent être recopiées sans modification
   * Le séparateur des colonnes dans le fichier est la virgule (,)
 
-[[http://www.dev-ouvretaferme.org/asset/accounting/asset/immobilisations.csv|Télécharger un exemple de fichier CSV]]
+[[https://www.ouvretaferme.org/asset/accounting/asset/immobilisations.csv|Télécharger un exemple de fichier CSV]]
+
 
 ==== Liste des données à fournir ====
 
