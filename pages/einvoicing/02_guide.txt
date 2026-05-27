@@ -95,11 +95,12 @@ Pour cette facture d'exemple, un encaissement partiel a été enregistré, et il
 
 Comme pour vos ventes et factures, vous pouvez indiquer un règlement pour vos factures électroniques. Cet encaissement sera automatiquement envoyé sur la plateforme agréée.
 
-{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-add-payment.png?974010188285762974010188285762}}
+{{:einvoicing:invoicing-add-payment.png}}
 
 Le règlement, partiel ou total, s'affiche ensuite sur la facture et dans les événements de la facture électronique.
 
-{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-add-partial-payment.png?974010188285762974010188285762}}
+{{:einvoicing:invoicing-add-partial-payment.png}}
+
 
 ===== Les statuts des factures électroniques =====
 
