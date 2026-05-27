@@ -56,7 +56,10 @@ Lorsque vous avez saisi toutes les informations requises, votre facturation est 
 {{:einvoicing:invoicing-show.png}}
 
 
-===== Rapprocher et indiquer l'encaissement d'une facture électroniqueDisponible avec l'adhésion =====
+===== Rapprocher et indiquer l'encaissement d'une facture électronique =====
+
+<color #205160>__Disponible avec l'adhésion__</color>
+
 
 ==== Avec le rapprochement automatique ====
 
