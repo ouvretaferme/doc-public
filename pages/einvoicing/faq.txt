@@ -1,0 +1,34 @@
+====== FAQ ======
+
+{{:einvoicing:facturation-electronique.png?150}}
+
+===== Qu'est-ce que la facturation électronique ? =====
+
+La facturation électronique ou //e-invoicing// concerne l'obligation d'émettre et de recevoir des factures électroniques structurées pour toutes les transactions entre professionnels. Au **1<sup>er</sup> septembre 2026**, toutes les entreprises seront dans l'obligation d'être en mesure de recevoir des factures électroniques.
+
+Au **1<sup>er</sup> septembre 2027**, vous aurez l'obligation d'émettre des factures électroniques.
+
+===== Qu'est-ce qu'une facture électronique ? =====
+
+Une facture électronique est une facture émise sur une plateforme agréée pour être transmise à son destinataire final, qui dispose lui aussi de sa plateforme agréée.
+
+Un fichier PDF classique n'est donc pas une facture électronique.
+
+===== Puis-je émettre et recevoir des factures électroniques avec Ouvretaferme ? =====
+
+Oui, Ouvretaferme une solution compatible avec la facture électronique.
+
+Nous sommes raccordés avec la plateforme agréée ⏺ SUPER PDP. Lorsque vous utilisez Ouvretaferme pour émettre ou recevoir une facture électronique, nous nous assurons que vos factures transitent bien par la plateforme agréée.
+
+{{:einvoicing:facturation-electronique-sc.png?150}}
+
+===== Qu'est-ce que le e-reporting ? =====
+
+Le **e-reporting** concerne la déclaration des données de transactions et de paiements qui ne sont pas couvertes par le e-invoicing, comme les transactions avec des particuliers, ou les transactions entre professionnels à l'international. Au **1<sup>er</sup> septembre 2027**, toutes les entreprises seront concernées par l'obligation de //e-reporting//.
+
+==== Et sur Ouvretaferme ? ====
+
+Début 2027, Ouvretaferme proposera une phase pilote pour permettre à toutes les structures de déclarer leurs transactions pour le //e-reporting//.
+
+Si vous utilisez Ouvretaferme comme logiciel de facturation et de gestion de caisse, **Ouvretaferme sera en mesure de calculer automatiquement les données à transmettre dans le cadre du //e-reporting**//.
+
