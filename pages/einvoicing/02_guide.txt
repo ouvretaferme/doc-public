@@ -65,15 +65,16 @@ Lorsque vous avez saisi toutes les informations requises, votre facturation est 
 
 Lorsque vos opérations bancaires sont importées, Ouvretaferme vous propose parfois un rapprochement automatique entre les factures, électronique ou non, et certaines opérations bancaires :
 
-{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-reconciliation-auto.png?974010188285762974010188285762}}
+{{:einvoicing:invoicing-reconciliation-auto.png}}
 
 Indiquez le moyen de paiement s'il n'a pas été détecté automatiquement, puis rapprochez.
 
 La plateforme agréée sera informée qu'un encaissement du montant indiqué a bien été réalisé pour cette facture :
 
-{{http://www.dev-ouvretaferme.org/asset/ouvretaferme/main/image/doc/invoicing-reconciliation-done.png?974010188285762974010188285762}}
+{{:einvoicing:invoicing-reconciliation-done.png}}
 
 Si c'est un encaissement partiel, le fonctionnement est exactement le même, et vous pourrez ajouter d'autres encaissements.
+
 
 ==== Manuellement ====
 
