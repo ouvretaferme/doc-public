@@ -13,7 +13,8 @@ Cas ① : Si vous êtes __redevable de la TVA__, vous devez tenir 2 registres :
 
 Cas ② : Si vous n'êtes __pas redevable de la TVA__, seul le **livre-journal des recettes** est obligatoire.
 
-L'utilisation du mode **livre des recettes pour le micro-BA** de Ouvretaferme respecte le cadre légal défini par le [[https://bofip.impots.gouv.fr/bofip/10609-PGP.html/identifiant=BOI-BA-DECLA-15-20160907|BOI-BA-DECLA-15]] .
+L'utilisation du mode **livre des recettes pour le micro-BA** de Ouvretaferme respecte le cadre légal défini par le [[https://bofip.impots.gouv.fr/bofip/10609-PGP.html/identifiant=BOI-BA-DECLA-15-20160907|BOI-BA-DECLA-15]].
+
 
 ===== Comment utiliser Ouvretaferme pour mon livre des recettes et mon registre des achats ? =====
 
