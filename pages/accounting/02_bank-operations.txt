@@ -44,7 +44,7 @@ Pour chaque suggestion de rapprochement, vous pouvez modifier le mode de règlem
 Puis ensuite vous avez le choix :
 
   * 👍 d'accepter le rapprochement suggéré
-  * //👎 de le refuser.//\\ //Note : dans ce dernier cas, cette association ne vous sera plus proposée et si une autre association est trouvée, elle vous sera présentée à son tour.//
+  * 👎 de le refuser//.//\\ //Note : dans ce dernier cas, cette association ne vous sera plus proposée et si une autre association est trouvée, elle vous sera présentée à son tour.//
 
 Après avoir accepté une suggestion de rapprochement, le paiement de la facture ou de la vente sera indiqué avec une petite icône 🏦 dans le module de commercialisation.
 
