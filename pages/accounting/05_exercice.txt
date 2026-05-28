@@ -18,6 +18,8 @@ Lorsque vous cliquez sur Réaliser le bilan d'ouverture, Ouvretaferme vous indiq
   * le report des soldes de l'exercice précédent
   * l'enregistrement et l'affectation automatique du résultat de l'exercice précédent
 
+Une fois le bilan d'ouverture réalisé, vous pouvez télécharger au format PDF un bilan d'ouverture, et un bilan d'ouverture détaillé.
+
 
 ===== Réaliser le bilan de clôture =====
 
