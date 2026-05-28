@@ -23,6 +23,39 @@ Une fois le bilan d'ouverture réalisé, vous pouvez télécharger au format PDF
 
 ===== Réaliser le bilan de clôture =====
 
+À la fin de l'exercice comptable, vous devez réaliser un bilan de clôture. Ouvretaferme vous propose toutes les écritures liées à cette étape.
+
+==== ① Points à vérifier ====
+
+Il y a certains prérequis à la clôture d'un exercice. Ils sont vérifiés à cette étape et vous sont affichés s'ils ne sont pas conformes :
+
+  * toutes les écritures comptables doivent contenir une pièce comptable
+  * les comptes d'attente doivent être soldés
+  * la balance doit être équilibrée
+
+Si ce n'est pas le cas, Ouvretaferme ne vous permettra pas la clôture.
+
+==== ② Comptes de l'exploitant ====
+
+Si le compte 108 n'est pas soldé, une écriture avec pour contrepartie le compte 101 sera créée.
+
+==== ③ Amortissements ====
+
+Si vous avez des immobilisations à amortir, toutes les écritures comptables liées à l'amortissement de ces immobilisations seront listées.
+
+==== ④ Subventions ====
+
+Si vous avez des subventions à amortir, les écritures comptables de ces subventions seront listées.
+
+==== ⑤ Factures Non Parvenues et Factures à Établir ====
+
+En comptabilité d'engagement, vous pouvez indiquer dans cette section les FNP ou CCA et les FAE ou PCA. En les enregistrant dans un journal configuré comme "extournable", toutes les écritures de contrepassation seront créées automatiquement.
+
+Une fois que vous avez vérifié toutes les données, vous pouvez réaliser la clôture. Vous pourrez alors télécharger le bilan de clôture.
+
+Les archives de cet exercice comptable seront automatiquement générées et vous pouvez les retrouver dans la section "Archives" dans le menu de la roue crantée ⚙️ de votre exercice comptable.
+
+
 ===== Faq =====
 
 ==== Et si je me suis trompé·e dans le paramétrage de mon exercice ? ====
