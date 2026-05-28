@@ -51,7 +51,7 @@ Ouvretaferme vous demandera de paramétrer des correspondances entre :
 
 **Pourquoi configurer des numéros de compte ?**
 
-Les Plan Comptable Général et Plan Compable Agricole ont changé en 2025. Ouvretaferme est basé sur cette version, c'est pourquoi certains comptes n'existent pas sur Ouvretaferme alors que vous vous en serviez avant. Vous pouvez les recréer selon vos besoins, et pour éviter de vous en servir ultérieurement, vous pourrez les désactiver par la suite.
+Les Plan Comptable Général et Plan Compable Agricole ont changé en 2025. Ouvretaferme est basé sur cette version, c'est pourquoi certains comptes n'existent pas sur Ouvretaferme alors que vous vous en serviez avant. Vous pouvez les recréer selon vos besoins, et pour éviter de les utiliser par mégarde ultérieurement, vous pourrez les désactiver par la suite.
 
 **Clôturé ou Ouvert ?**
 
@@ -61,6 +61,7 @@ Lorsque vous importez un fichier FEC, vous pouvez choisir de l'importer comme "c
   * un exercice importé **fermé** ne sera plus modifiable après l'import
 
 Dans les deux cas, l'ouverture de l'exercice suivant reprendra toutes les opérations d'ouverture (écriture du résultat, affectation, reports à nouveau etc.)
+
 
 ===== Et ensuite ? =====
 
