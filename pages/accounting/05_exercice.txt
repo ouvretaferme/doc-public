@@ -6,6 +6,19 @@
 
 ===== Réaliser le bilan d'ouverture =====
 
+Un bilan d'ouverture (BO) sera créé dans l'un des deux cas suivants :
+
+  * l'exercice à ouvrir fait suite à un exercice précédent créé et rempli sur ouvretaferme, déjà clos
+  * l'exercice à ouvrir fait suite à un exercice précédent pour lequel un fichier FEC a été importé.
+
+Si vous n'avez pas d'exercice précédent, l'exercice sera ouvert sans manipulation supplémentaire.
+
+Lorsque vous cliquez sur Réaliser le bilan d'ouverture, Ouvretaferme vous indiquera toutes les écritures qui seront générées automatiquement, avec :
+
+  * le report des soldes de l'exercice précédent
+  * l'enregistrement et l'affectation automatique du résultat de l'exercice précédent
+
+
 ===== Réaliser le bilan de clôture =====
 
 ===== Faq =====
