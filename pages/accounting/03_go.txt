@@ -14,9 +14,16 @@ Avant de démarrer la comptabilité, Ouvretaferme a besoin des informations suiv
   * La forme juridique
   * L'adresse du siège social
 
-==== Informations sur la comptabilité ====
+==== Informations sur la TVA ====
 
 Ensuite, Ouvretaferme vous demandera quelques informations sur la TVA de votre structure afin de s'adapter à votre fonctionnement, comme la redevabilité à la TVA, le numéro de TVA intracommunautaire, l'exigibilité, la fréquence de déclaration etc.
+
+==== Informations sur la comptabilité ====
+
+Pour finir, et entrer dans le vif du sujet, Ouvretaferme vous demande de paramétrer votre premier exercice comptable : les dates, le régime fiscal, le plan comptable à utiliser etc.
+
+Choisissez bien vos paramètres, car certains ne sont plus modifiables après avoir validé ! Vous pourrez toutefois supprimer votre exercice et le recréer si aucune écriture comptable n'a été enregistrée.
+
 
 ===== Créer le premier exercice comptable =====
 
