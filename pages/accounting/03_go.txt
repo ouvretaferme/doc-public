@@ -2,19 +2,35 @@
 
 === Paramétrer sa comptabilité et démarrer à son rythme ! ===
 
+===== Premiers paramétrages =====
+
+==== Informations sur la structure ====
+
+Avant de démarrer la comptabilité, Ouvretaferme a besoin des informations suivantes concernant votre structure :
+
+  * Le pays : seule la France est prise en charge
+  * Le siret
+  * La raison sociale
+  * La forme juridique
+  * L'adresse du siège social
+
+==== Informations sur la comptabilité ====
+
+Ensuite, Ouvretaferme vous demandera quelques informations sur la TVA de votre structure afin de s'adapter à votre fonctionnement, comme la redevabilité à la TVA, le numéro de TVA intracommunautaire, l'exigibilité, la fréquence de déclaration etc.
+
 ===== Créer le premier exercice comptable =====
 
 [[https://youtu.be/q7YgDDGeZJg|🎦 Lien vers le tutoriel vidéo]]\\ \\ L'exercice comptable est la base de la tenue d'une comptabilité.
 
-Il s'agit de paraméter au mieux les choix effectués pour la ferme afin que le logiciel s'adapte à vos besoins.
+Il s'agit de paramétrer au mieux les choix effectués pour votre structure afin que le logiciel s'adapte à vos besoins.
 
-Pour le moment, le logiciel de comptabilité de Ouvretaferme est optimisé pour les les fermes remplissant les critères suivants :
+Pour le moment, le logiciel de comptabilité de Ouvretaferme est optimisé pour les les structures remplissant les critères suivants :
 
   * fermes au micro-BA,
   * à la comptabilité de trésorerie,
   * redevables ou non de la TVA.
 
-Toutes les autres fermes peuvent bien sûr utiliser le logiciel de comptabilité de Ouvretaferme, moyennant quelques adaptations dans l'enregistrement des écritures comptables.
+Toutes les autres structures peuvent bien sûr utiliser le logiciel de comptabilité de Ouvretaferme, moyennant quelques adaptations dans l'enregistrement des écritures comptables.
 
 ===== Importer un fichier FEC =====
 
