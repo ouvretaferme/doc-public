@@ -4,9 +4,11 @@
 
 ===== Premiers paramétrages =====
 
+Avant de démarrer la comptabilité, les informations nécessaires à la bonne tenue de votre comptabilité doivent être renseignées.
+
 ==== Informations sur la structure ====
 
-Avant de démarrer la comptabilité, Ouvretaferme a besoin des informations suivantes concernant votre structure :
+Ouvretaferme a besoin des informations suivantes concernant votre structure :
 
   * Le pays : seule la France est prise en charge
   * Le siret
@@ -23,7 +25,6 @@ Ensuite, Ouvretaferme vous demandera quelques informations sur la TVA de votre s
 Pour finir, et entrer dans le vif du sujet, Ouvretaferme vous demande de paramétrer votre premier exercice comptable : les dates, le régime fiscal, le plan comptable à utiliser etc.
 
 Choisissez bien vos paramètres, car certains ne sont plus modifiables après avoir validé ! Vous pourrez toutefois supprimer votre exercice et le recréer si aucune écriture comptable n'a été enregistrée.
-
 
 ===== Créer le premier exercice comptable =====
 
