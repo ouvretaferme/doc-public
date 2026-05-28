@@ -58,6 +58,10 @@ Les archives de cet exercice comptable seront automatiquement générées et vou
 
 ===== FAQ =====
 
+==== Puis-je importer un fichier FEC de mon exercice ? ====
+
+Oui, tout est expliqué dans cet article : [[accounting:03_go|Importer un fichier FEC]]
+
 
 ==== Et si je me suis trompé·e dans le paramétrage de mon exercice ? ====
 
