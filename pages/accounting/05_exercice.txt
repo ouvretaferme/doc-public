@@ -56,7 +56,8 @@ Une fois que vous avez vérifié toutes les données, vous pouvez réaliser la c
 Les archives de cet exercice comptable seront automatiquement générées et vous pouvez les retrouver dans la section "Archives" dans le menu de la roue crantée ⚙️ de votre exercice comptable.
 
 
-===== Faq =====
+===== FAQ =====
+
 
 ==== Et si je me suis trompé·e dans le paramétrage de mon exercice ? ====
 
