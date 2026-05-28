@@ -21,15 +21,17 @@ Vous pourrez apporter tous les ajustements nécessaires puis ensuite vous pourre
 
 Utilisez de préférence l'éditeur avancé, cela vous permettra de voir en direct la manière dont votre contenu va s'afficher.
 
-Si vous souhaitez mettre de la couleur sur votre texte, il faut utiliser le code suivant : <color CODE>Mon texte en couleur</color> avec CODE : soit le code hexadecimal (par exemple #000000 pour noir), soit le nom reconnu en anglais (par exemple black pour noir)
+Si vous souhaitez mettre de la couleur sur votre texte, il faut utiliser le code suivant : ''%%<color CODE>Mon texte en couleur</color>%%'' avec CODE : soit le code hexadecimal (par exemple #000000 pour noir), soit le nom reconnu en anglais (par exemple black pour noir)
 
 ==== Pour insérer une vidéo Youtube ====
 
 Si vous souhaitez insérer un lien vers une vidéo et que la vidéo s'affiche, tout d'abord **contactez l'équipe pour que la vidéo soit enregistrée sur le compte Youtube de Ouvretaferme**.
 
-Ensuite, utiliser le code suivant : {{youtube>ID_DE_LA_VIDEO}}
+Ensuite, utiliser le code suivant :
 
-Pour trouver la valeur ID_DE_LA_VIDEO, il faut regarder le lien. Par exemple, pour la vidéo sur la facturation électronique, le lien est https://youtu.be/dl3BC-RirkI. Donc la valeur ID_DE_LA_VIDEO est //dl3BC-RirkI//.
+''%%{{youtube>ID_DE_LA_VIDEO}}%%''
+
+Pour trouver la valeur ID_DE_LA_VIDEO, il faut regarder le lien. Par exemple, pour la vidéo sur la facturation électronique, le lien est [[https://youtu.be/dl3BC-RirkI]]. Donc la valeur ID_DE_LA_VIDEO est //dl3BC-RirkI//.
 
 ==== Astuce générale ====
 
