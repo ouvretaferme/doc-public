@@ -64,3 +64,11 @@ Si les données à modifier sont autorisées et n'ont pas d'impact conséquent s
 
 Si les données à modifier ne sont pas modifiable, il est tout à fait possible de supprimer l'exercice à partir du moment où vous n'avez enregistré aucune écriture comptable. Pour ce faire, rendez-vous dans la synthèse de votre exercice, cliquez sur la petite roue crantée ⚙️ et cliquez sur //Supprimer l'exercice//. Vous pourrez ensuite recréer l'exercice avec les bons paramètres.
 
+==== Puis-je télécharger mon exercice ? ====
+
+Oui, vous pouvez vous rendre dans la synthèse de votre exercice, cliquer sur la petite roue crantée ⚙️ et aller sur //Archives//.
+
+Les archives sont générées automatiquement lors de la clôture de l'exercice, mais vous pouvez à tout moment en recréer, par exemple si vous avez un contrôle de vos comptes.
+
+Si vous créez vous-même l'archive, vous pouvez choisir la période concernée et les documents à extraire.
+
