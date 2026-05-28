@@ -1,0 +1,18 @@
+====== Les exercices comptables ======
+
+===== Créer un exercice =====
+
+[[https://youtu.be/q7YgDDGeZJg|🎦 Lien vers le tutoriel vidéo]]
+
+===== Réaliser le bilan d'ouverture =====
+
+===== Réaliser le bilan de clôture =====
+
+===== Faq =====
+
+==== Et si je me suis trompé·e dans le paramétrage de mon exercice ? ====
+
+Si les données à modifier sont autorisées et n'ont pas d'impact conséquent sur la tenue de votre comptabilité, vous pouvez les modifier. Pour ce faire, rendez-vous dans la synthèse de votre exercice, cliquez sur la petite roue crantée ⚙️ et cliquez sur //Modifier l'exercice//.
+
+Si les données à modifier ne sont pas modifiable, il est tout à fait possible de supprimer l'exercice à partir du moment où vous n'avez enregistré aucune écriture comptable. Pour ce faire, rendez-vous dans la synthèse de votre exercice, cliquez sur la petite roue crantée ⚙️ et cliquez sur //Supprimer l'exercice//. Vous pourrez ensuite recréer l'exercice avec les bons paramètres.
+
