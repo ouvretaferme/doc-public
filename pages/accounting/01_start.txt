@@ -13,8 +13,9 @@ Sur Ouvretaferme, vous pouvez préparer les données de vos ventes sans être ob
 
 Au final,
 
-  * Soit vous téléchargez un fichier au format FEC puis l'importez dans votre logiciel de comptabilité habituel
-  * Soit vous générez automatiquement les écritures dans le livre journal
+↗️ Soit vous téléchargez un fichier au format FEC puis l'importez dans votre logiciel de comptabilité habituel
+
+↘️ Soit vous générez automatiquement les écritures dans le livre journal
 
 ... C'est **vous qui choisissez** le niveau d'utilisation de la comptabilité proposé par Ouvretaferme !
 
