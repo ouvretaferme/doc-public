@@ -36,7 +36,8 @@ En tant qu'exploitation au micro-BA, vous pouvez être soumis au régime simplif
 
 À partir de votre livre des recettes et votre registre des achats, Ouvretaferme vous propose une déclaration de régularisation de TVA annuelle pré-remplie que vous n'avez plus qu'à vérifier et recopier sur votre déclaration de TVA sur le site des impots, que vous retrouvez dans la synthèse de l'exercice.
 
-Vous trouverez plus d'informations sur les conditions pour bénéficier de ce régime, comment payer et comment régulariser annuellement sur le site [[https://entreprendre.service-public.gouv.fr/vosdroits/F35361|service-public.gouv.fr]] .
+Vous trouverez plus d'informations sur les conditions pour bénéficier de ce régime, comment payer et comment régulariser annuellement sur le site [[https://entreprendre.service-public.gouv.fr/vosdroits/F35361|service-public.gouv.fr]].
+
 
 ===== Est-ce que je pourrai utiliser toutes les fonctionnalités de Ouvretaferme en comptabilité simplifiée ? =====
 
