@@ -22,6 +22,17 @@ Un import des produits depuis **Elzeard** est également possible avec un conver
 
 ==== Liste des données à fournir ====
 
+^ Type de donnée ^ Nom de l'entête ^ Description ^ Exemple ^
+| Type de produit | ''type'' | Les valeurs possibles : \\ ''plant'' → Produit d'origine végétale \\ ''animal'' → Produit d'origine animale \\ ''food'' → Produit alimentaire transformé \\ ''product'' → Produit non alimentaire \\ ''service'' → Prestation de service | plant |
+| Nom du produit | ''name'' | Le nom du produit | Tomate |
+| Référence du produit | ''reference'' | Une référence interne pour le produit (uniquement des chiffres, des lettres et des tirets). Une même référence ne peut pas être utilisée pour plusieurs produits. | TOMCDB |
+| Unité de vente | ''unit'' | L'unité de vente doit correspondre à une des unités de vente de votre ferme. Vous devez utiliser le nom de l'unité au singulier. | kg |
+| Prix pour les particuliers | ''price_private'' | Le prix en € TTC du produit pour les particuliers. \\ Vous devez renseigner au moins un prix, qu'il soit professionnel ou particulier, pour votre produit. | 5 |
+| Prix pour les professionnels | ''price_pro'' | Le prix en € HT du produit pour les professionnels. \\ Vous devez renseigner au moins un prix, qu'il soit professionnel ou particulier, pour votre produit. | 3 |
+| Taux de TVA | ''vat_rate'' | Le taux de TVA du produit (peut être laissé à 0 si vous avez indiqué que votre ferme n'est pas redevable de la TVA) | 5,5 |
+| Complément d'information sur le produit | ''additional'' | Un court texte pour compléter le nom du produit | Environ 400 grammes |
+| Origine du produit | ''origin'' | L'origine géographique du produit | La ferme du voisin (63) |
+| Signe de qualité | ''quality'' | Les valeurs possibles : \\ ''organic'' → Agriculture biologique \\ ''nature-progres'' → Nature & Progrès \\ ''conversion'' → En conversion vers l'agriculture biologique | organic |
 ==== Autres données que vous pouvez fournir ====
 
 Certaines données qui ne s'appliquent qu'à certains profils de produits peuvent être ajoutées à votre fichier CSV.\\ Par exemple, la colonne pour définir la variété d'un produit ne sera prise en compte que pour les produits d'origine végétale.
