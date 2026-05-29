@@ -9,11 +9,11 @@ Tout contenu qui ne respecte pas ces règles sera susceptible d'être supprimé 
 
 ===== Comment contribuer ? =====
 
-Pour pouvoir contribuer à cette documentation, vous devez d'abord créer un compte.
+① Commencez par créer un compte pour pouvoir contribuer à cette documentation.
 
-Ensuite, vous pourrez cliquer sur "Modifier" en haut d'un article pour lequel la contribution est autorisée.
+② Si l'article le permet, un bouton "Modifier" apparaît en haut. Cliquez dessus.
 
-Vous pourrez apporter tous les ajustements nécessaires puis ensuite vous pourrez valider.
+③ Apportez vos modifications, cliquez sur "Aperçu" pour vérifier votre contenu, puis cliquez sur "Enregistrer".
 
 ===== Quelques astuces =====
 
