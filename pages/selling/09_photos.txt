@@ -2,5 +2,7 @@
 
 === Nous mettons à votre disposition des photos libres de droit pour les principaux légumes cultivés dans les systèmes maraîchers. Vous pouvez notamment les utiliser pour vos produits sur Ouvretaferme ! ===
 
-https://www.dropbox.com/scl/fo/z3nkaufqkik90d0xs0b6q/h?rlkey=b69944c6ui40ck22gi6lk2imb&dl=0
+
+<wrap btn--secondary>[[https://www.dropbox.com/scl/fo/z3nkaufqkik90d0xs0b6q/h?rlkey=b69944c6ui40ck22gi6lk2imb&dl=0|Accéder aux photos]]</wrap>
+
 
