@@ -1,0 +1,18 @@
+====== Importer des prix ======
+
+=== Vous pouvez importer vos prix de vente au format CSV. Cette fonctionnalité peut vous être utile si vous souhaitez maintenir votre grille tarifaire dans un tableur ! ===
+
+===== Importer des prix au format CSV =====
+
+Les prix que vous importez au format CSV remplacent les prix existants. L'import ne supprime jamais les prix existants. Par exemple, si vous modifiez le prix de base d'un produit, le système ne modifiera pas les prix personnalisés pour certains clients ou groupes de client.
+
+<wrap btn--secondary>[[https://www.dropbox.com/scl/fo/z3nkaufqkik90d0xs0b6q/h?rlkey=b69944c6ui40ck22gi6lk2imb&dl=0|Accéder aux photos]]</wrap>
+
+Le fichier CSV que vous importez doit comporter une ligne par client, et les colonnes de ce fichier doivent correspondre à la liste des données à fournir décrite plus bas.
+
+  * La première ligne du fichier CSV correspond aux en-têtes qui doivent être recopiées sans modification
+  * Le séparateur des colonnes dans le fichier est la virgule (,)
+  * Le fichier doit être enregistré au format UTF-8 ou UTF-16
+
+
+<wrap btn--secondary>[[https://www.ouvretaferme.org/asset/commercialisation/selling/prices.csv?6ad4f14b|Télécharger un exemple CSV]]</wrap>
