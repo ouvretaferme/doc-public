@@ -16,3 +16,12 @@ Le fichier CSV que vous importez doit comporter une ligne par client, et les col
 
 <wrap btn--secondary>[[https://www.ouvretaferme.org/asset/commercialisation/selling/prices.csv?6ad4f14b|Télécharger un exemple CSV]]</wrap>
 
+==== Liste des données à fournir ====
+
+^ Type de donnée ^ Nom de l'entête ^ Description ^ Exemple ^
+| Référence du produit | ''reference'' | La référence du produit dont vous souhaitez importer le prix. **N'indiquez pas le nom du produit, mais bien la référence alphanumérique.** | TOMANC |
+| Type de prix | ''type'' | Indiquez le type de prix que vous souhaitez mettre à jour pour ce produit : \\ ''product'' → Nouveau prix de base du produit \\ ''customer'' → Nouveau prix du produit pour un client \\ ''group'' → Nouveau prix du produit pour un groupe de clients \\ ''catalog'' → Nouveau prix du produit pour un catalogue | product |
+| Destinataire du prix | ''target'' | Renseignez ici le destinataire de ce prix, la valeur à indiquer dépend du type de prix. Indiquez pour un prix : \\ **Pour ''product''** : ''private'' pour mettre à jour le prix pour les clients particuliers, ''pro'' pour mettre à jour le prix pour les clients professionnels \\ **Pour ''customer''** : les numéros des clients qui bénéficieront de ce prix, séparés par des virgules (exemple : ''C2, C78'') \\ **Pour ''group''** : le nom des groupes de clients qui bénéficieront de ce prix, séparés par des virgules (exemple : ''AMAP'') \\ **Pour ''catalog''** : le nom des catalogues qui bénéficieront de ce prix, séparés par des virgules (exemple : ''DG, VD'') | private |
+| Prix | ''price'' | Le nouveau prix | 3,5 |
+| Prix remisé | ''price_discount'' | Le nouveau prix remisé | 3 |
+
