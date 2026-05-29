@@ -18,3 +18,5 @@ Le fichier CSV que vous importez doit comporter une ligne par culture, et les co
   * Le séparateur des colonnes dans le fichier est la virgule (,)
   * Le fichier doit être enregistré au format UTF-8 ou UTF-16
 
+
+<wrap btn--secondary>[[http://www.dev-ouvretaferme.org/asset/production/series/series.csv?1099317361977018|Télécharger un exemple CSV]]</wrap>
