@@ -1,6 +1,6 @@
 ====== La facturation ======
 
-==== Introduction à la facturation ====
+=== Introduction à la facturation ===
 
 ===== Comment facturer mes clients avec Ouvretaferme ? =====
 
