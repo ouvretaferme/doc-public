@@ -22,3 +22,6 @@ Le fichier CSV que vous importez doit comporter une ligne par culture, et les co
 
 ==== Liste des données à fournir ====
 
+|  |  |  |  |
+| Type de donnée | Nom de l'entête | Description | Exemple |
+
