@@ -1,0 +1,62 @@
+====== La gestion des prix ======
+
+=== Comment définir avec Ouvretaferme vos prix de vente en fonction de vos clients ? ===
+
+===== Introduction à la gestion des prix =====
+
+Nous avons fait le choix sur Ouvretaferme de découpler les prix de vente pour vos clients professionnels et vos clients particuliers, ce qui signifie concrètement que :
+
+  * Vous choisissez pour chaque produit un prix pour les professionnels et un prix pour les particuliers
+  * Il n'est pas possible de partager un même catalogue de vente entre professionnels et particuliers
+  * Un groupe de clients ne peut contenir que des professionnels ou que des particuliers
+  * Et ainsi de suite...
+
+Si vous êtes redevable de la TVA, les ventes et les prix sont ainsi expimés **HT** pour vos clients professionnels et **TTC** pour vos clients particuliers. Si vous n'êtes pas redevable de la TVA, il n'y a pas de distinction **HT** / **TTC** mais les prix de vente restent découplés.
+
+===== Comprendre les pratiques des producteurs =====
+
+Les producteurs adoptent des politiques tarifaires très différentes.
+
+Vous êtes nombreux à n'avoir qu'un seul prix pour chacun de produits, et dans ce cas, cet article ne vous sera pas forcément utile ! Dans d'autres fermes, il peut y avoir autant de prix que de clients, notamment dans le cas où les débouchés sont très diversifiés ou bien parce que des accords commerciaux particuliers ont été passés avec les clients en question.
+
+Nous avons essayé sur Ouvretaferme de garder un système simple pour les producteurs qui ont des prix simples, mais également hautement personnalisable pour les autres.
+
+===== Quelques définitions =====
+
+  * **Prix de base.** Le prix que vous choisissez lorsque vous configurez un produit.
+  * **Prix catalogue.** Le prix d'un produit dans un catalogue donné. Vous pouvez choisir de la découpler du prix de base.
+  * **Prix boutique.** Le prix d'un produit dans une boutique en ligne qui n'est pas contrôlée par un catalogue. Lorsque vous modifiez un prix boutique, le prix de base n'est pas impacté et vice versa !
+  * **Prix personnalisé** Le prix d'un produit que vous avez personnalisé pour un client ou un groupe de clients
+
+===== Cas n°1 - Mes prix sont les mêmes pour tout le monde (ou presque) =====
+
+Vous avez une seule grille tarifaire ? Éventuellement quelques exceptions ?\\ Nous vous conseillons de :
+
+  * Choisir pour chaque produit un prix de base pour vos clients particuliers et / ou vos clients professionnels
+  * Utiliser les prix personnalisés pour vos quelques clients ou groupes de clients pour lesquels vous avez fait des exceptions
+
+===== Cas n°2 - J'ai (presque) autant de prix que de clients =====
+
+==== Comprendre la hiérarchie des prix des produits ====
+
+Pour que vos clients retrouvent sur les boutiques en ligne et sur leurs factures les prix que vous leur avez promis, il faut bien comprendre la hiérarchie des prix sur Ouvretaferme.
+
+  - **Le prix de base.** C'est le prix qui s'applique à vos ventes si vous n'utilisez pas de catalogue ou si vous n'avez pas défini de prix personnalisés pour un client ou un groupe de clients
+  - **Le prix catalogue.** C'est le prix qui s'applique à vos ventes qui passent par des catalogues sur les boutiques en ligne. Lorsque vous utilisez des catalogues, vous devez vous rappeler que par défaut, toute modification du prix de base se répercute sur le prix catalogue. Vous pouvez néanmoins, produit par produit, choisir de découpler le prix de base du prix catalogue.
+  - **Le prix boutique.** C'est le prix qui s'applique à vos ventes qui passent par des boutiques en ligne qui ne sont pas contrôlées par un catalogue. Sur ces boutiques, les prix de base ne s'appliquent plus et si vous modifiez un prix, le prix de base du produit n'est pas modifié.
+  - **Le prix personnalisé d'un groupe de clients.** Si vous avez personnalisé un prix pour un groupe de clients, celui-ci est toujours prioritaire par rapport au prix de base ou au prix catalogue. Si un client appartient à plusieurs groupes qui ont chacun un prix personnalisé pour un produit donné, alors on applique au client le prix du groupe le moins cher.
+  - **Le prix personnalisé pour un client.** Il est prioritaire à tous les autres.
+
+==== Quelques situations concrètes et solutions imaginables ====
+
+=== ① Je vends mes produits à 50 % en AMAP et le reste sur des marchés. J'applique le même prix sur tous mes marchés, mais des prix différents en AMAP. ===
+
+Vous pouvez renseigner comme prix de base de vos produits le prix que vous appliquez aux marchés. Pour vos amapiens, vous pourriez créer un groupe de clients **AMAP** auquel ils seraient rattachés, et définir ensuite des prix personnalisés pour ce groupe.
+
+=== ② Je vends exclusivement aux professionnels, et j'ai des prix différents pour les restaurants et les magasins spécialisés. ===
+
+Vous avez plusieurs options :
+
+  - Créer un groupe de clients **Restaurateur** et un groupe de clients **Magasin**. Pour chacun des groupes, vous définissez les prix que vous voulez personnaliser par rapport aux prix de base.
+  - Créer un catalogue pour les restaurants et un catalogue pour les magasins spécialisés, ce qui vous permettra d'appliquer des prix différents pour leurs commandes sur les boutiques en ligne.
+
