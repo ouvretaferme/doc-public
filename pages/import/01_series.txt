@@ -1,0 +1,20 @@
+====== Importer un plan de culture ======
+
+=== Vous pouvez importer un plan de culture au format CSV. C'est une fonctionnalité bien pratique si vous préférez concevoir votre plan de culture avec un tableur et le visualiser ensuite sur Ouvretaferme ! ===
+
+===== Comment importer un plan de culture ? =====
+
+Importer un plan de culture revient à importer sur Ouvretaferme un fichier CSV qui contient des listes de séries que vous souhaitez ajouter à votre plan de culture. Deux formats sont utilisables pour importer des séries :
+
+  * le format **Ouvretaferme**
+  * le format **Brinjel**, qui permet d'importer vos séries depuis ce logiciel ou depuis Qrop
+  * un import depuis **Elzeard** est également possible avec un convertisseur proposé par Alexis, qui transformera le format d'export de Elzeard vers le format de Ouvretaferme (voir le script en Python sur Github)
+
+===== Importer un fichier CSV au format Ouvretaferme =====
+
+Le fichier CSV que vous importez doit comporter une ligne par culture, et les colonnes de ce fichier doivent correspondre à la liste des données à fournir décrite plus bas. Si vous ne respectez pas ce format, vous obtiendrez un résultat qui ne sera pas satisfaisant.
+
+  * La première ligne du fichier CSV correspond aux en-têtes qui doivent être recopiées sans modification
+  * Le séparateur des colonnes dans le fichier est la virgule (,)
+  * Le fichier doit être enregistré au format UTF-8 ou UTF-16
+
