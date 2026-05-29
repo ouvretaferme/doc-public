@@ -1,0 +1,124 @@
+====== La facturation ======
+
+==== Introduction à la facturation ====
+
+===== Comment facturer mes clients avec Ouvretaferme ? =====
+
+Vous pouvez éditer des factures à partir des ventes que vous avez renseignées sur Ouvretaferme.\\ Pour éditer des factures, le préalable est donc d'enregistrer vos ventes.
+
+Pour les factures à destination de vos clients professionnels, Ouvretaferme sera pleinement compatible avec la facturation électronique dès le lancement de la réforme.
+
+Les factures générées par Ouvretaferme sont conformes à la réglementation en vigueur en **FRANCE**. Elles comportent l'ensemble des mentions obligatoires demandées par l'administration fiscale, sous réserve que vous ayez correctement paramétré votre compte évidemment.
+
+Consulter la liste des mentions obligatoires
+
+===== Créer une facture pour un client =====
+
+=== ① Depuis la page des ventes ===
+
+Vous pouvez créer une facture pour chaque vente à l'état **LIVRÉ** directement depuis la page des ventes. Pour cela il suffit de cliquer sur le bouton **FA** :
+
+{{:selling:invoice-create-sale.png}}
+
+=== ② Depuis la page des factures ===
+
+Vous pouvez créez votre facture avec le bouton de création
+
+{{:selling:invoice-create.png}}
+
+Vous saisissez le nom de votre client à l'étape suivante. La liste des ventes éligibles à la facturation vous sera alors proposée.
+
+{{:selling:invoice-create-list.png}}
+
+===== Créer les factures pour un mois de vente =====
+
+Depuis la page des factures, le logiciel vous propose de générer toutes vos factures pour un mois donné. Cette fonctionnalité peut vous être utile notamment si vous faites le choix de facturer vos ventes mensuellement.
+
+{{:selling:invoice-create-month.png}}
+
+===== Créer une facture d'avoir =====
+
+Lorsque vous générez une facture à partir d'une ou plusieurs ventes, et que le montant de la facture est négatif, une facture d'avoir est automatiquement générée sans intervention de votre part.
+
+Si vous souhaitez faire un avoir pour un client, il vous suffit donc de créer une vente avec un montant négatif, par exemple en indiquant une quantité négative pour un produit si vous souhaitez effectuer un remboursement suite à un retour client.
+
+===== Créer une facture d'acompte =====
+
+Vous pouvez créer une facture d'acompte lorsque vous avez reçu un règlement partiel pour une commande. Une facture d'acompte ne peut être éditée que pour les ventes au statut Confirmé ou Préparé. Dès lors qu'une vente est livrée, c'est nécessairement la facture définitive que vous éditez.
+
+Si votre vente a les conditions exigées, un lien pour créer une facture d'acompte est visible sous la liste des paiements.
+
+{{:selling:invoice-create-deposit.png}}
+
+Par la suite, lorsque votre vente est livrée et que vous éditez votre facture finale, les acomptes versés sont déduits de la facture et un net à payer est affiché à votre client pour lui indiquer le solde.
+
+{{:selling:invoice-create-final.png}}
+
+Il n'est pas possible d'éditer une facture d'acompte pour plusieurs ventes simultanément.
+
+===== Paramétrer une facture avant sa création =====
+
+Avant de générer votre facture, vous devez vérifier et modifier si besoin :
+
+  - La date de facturation (en sachant que vous ne pouvez pas facture antérieurement à une facture déjà émise)
+  - La date d'échéance
+  - Les entêtes et pieds de page en activant l'option //Personnaliser avant de générer//
+
+{{:selling:invoice-create-customize.png}}
+
+Si vous n'êtes pas certain du caractère définitif de cette facture, vous pouvez la laissez en brouillon. Elle restera modifiable et pourra toujours être supprimé. Si vous la générez immédiatement, elle se verra attribuer un numéro de facture et deviendra inaltérable.
+
+===== Gestion des factures émises =====
+
+Pour chaque facture émise, vous pouvez renseigner un ou plusieurs modes de règlement. Si vous avez activé le module de **GESTION**, vous pouvez également télécharger vos relevés bancaires pour que Ouvretaferme marque automatiquement les factures réglées par virement comme payée !
+
+{{:selling:invoice-list.png}}
+
+Vous pouvez à tout instant contrôler les factures émises qui n'ont pas été réglées avant la date d'échéance. Le logiciel vous permet également d'envoyer un e-mail de relance pour ces factures.
+
+{{:selling:invoice-delayed.png}}
+
+===== Configuration de la facturation =====
+
+Il existe de multiples possibilités de personnalisation pour vos factures :
+
+  * Modifier la numérotation
+  * Indiquer vos conditions de paiement
+  * Définir des entêtes et pieds de pages
+  * Personnaliser les e-mails envoyés aux clients
+  * Choisir une date d'échéance par défaut
+  * ...
+
+Ce paramétrage s'effectue depuis la section **PARAMÉTRAGE**.
+
+===== Questions / réponses =====
+
+==== Puis-je créer une facture pour mes points de vente ? ====
+
+Non, vous ne pouvez créer de factures que pour vos clients particuliers (personne physique) et professionnels (personne morale). Un point de vente pour les particuliers est considéré comme un regroupement de clients sans valeur juridique.
+
+==== Dans quels cas puis-je créer une facture pour plusieurs ventes ? ====
+
+Vous pouvez générez une facture avec plusieurs ventes sous réserve que les conditions cumulatives suivantes soient respectés :
+
+  - Les ventes doivent avoir été réalisées le même mois
+  - Les ventes doivent toutes être soumises au même régime de TVA
+  - Les ventes ne doivent pas avoir été réglées, même partiellement
+
+Ces contraintes permettent de respecter le cadre fixé par le législateur.
+
+==== Puis-je générer une facture à partir d'une vente réalisée dans le logiciel de caisse ? ====
+
+Non, ce n'est pas possible.
+
+Par contre, vous pouvez utiliser l'option de **Vente en paiement différé** qui permet de sortir une vente du logiciel de caisse. La vente pourra ensuite être facturée normalement.
+
+==== Est-il possible de supprimer une facture ? ====
+
+Vous ne pouvez pas supprimer une facture numérotée. La loi interdit de supprimer une facture et les documents comptables doivent être tenus sans altération d’aucune sorte. L’administration fiscale a besoin de vérifier la bonne continuité de votre numérotation de facturation. Un trou dans la numérotation constitue une infraction fiscale.
+
+Ce que vous pouvez faire :
+
+  * Laisser vos factures en brouillon le plus longtemps possible. Une facture en brouillon peut être supprimée car elle ne s'est pas vu attribuer de numéro.
+  * Générer une facture d'avoir pour corriger la facture originale qui pose problème.
+
