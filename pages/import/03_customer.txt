@@ -1,0 +1,15 @@
+====== Importer des clients ======
+
+=== Vous pouvez importer des clients au format CSV. Cette fonctionnalité peut vous être utile si vous utilisiez d'autres logiciels ou un tableur pour gérer votre commercialisation avant Ouvretaferme ! ===
+
+===== Importer des clients au format CSV =====
+
+Les clients que vous importez au format CSV sont ajoutés à la liste de vos clients existants, à l'exception de ceux que vous tentez d'importer sous une adresse e-mail déjà présente sur votre base. Les clients concernés ne seront pas ajoutés une deuxième fois.
+
+Le fichier CSV que vous importez doit comporter une ligne par client, et les colonnes de ce fichier doivent correspondre à la liste des données à fournir décrite plus bas.
+
+  * La première ligne du fichier CSV correspond aux en-têtes qui doivent être recopiées sans modification
+  * Le séparateur des colonnes dans le fichier est la virgule (,)
+  * Le fichier doit être enregistré au format UTF-8 ou UTF-16
+
+<wrap btn--secondary>[[https://www.ouvretaferme.org/asset/commercialisation/selling/customers.csv?6ad4f14b|Télécharger un exemple CSV]]</wrap>
