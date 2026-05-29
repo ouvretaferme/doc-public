@@ -22,33 +22,52 @@ Le fichier CSV que vous importez doit comporter une ligne par culture, et les co
 
 ==== Liste des données à fournir ====
 
-|   |   |   |   |  |
-| Type de donnée | Nom de l'entête | Description | Exemple |  |
-| Saison | season | La saison à laquelle intégrer cette culture | 2024 |  |
-| Numéro de série | series_id | Les cultures avec un numéro de série identique seront rassemblées dans la même série et traitées comme des associations de culture | 123 |  |
-| Nom de la série | series_name | Le nom de la série pour cette culture | Carotte primeur |  |
-| Mode de culture | mode | Les valeurs possibles : open-field → plein-champ, greenhouse → sous abri, mix → mixte | open-field |  |
-| Utilisation du sol | use | Les valeurs possibles : bed → Culture sur planches, block → Culture sur surface libre | bed |  |
-| Espèce | species | Le nom de l'espèce doit correspondre à une espèce existante de votre ferme, seules les espèces annuelles sont acceptées. | Carotte |  |
-| Implantation | planting_type | Les valeurs possibles : sowing → semis direct, young-plant → plant autoproduit, young-plant-bought → plant acheté | young-plant |  |
-| Nombre de graines par trou | seeds_per_hole | Pris en compte dans le cas d'implantation par semis direct ou plant autoproduit | 3 |  |
-| Plateau de semis | young_plants_tray | Pris en compte uniquement dans le cas d'implantation par plant autoproduit et le plateau de semis doit avoir été préalablement créé dans la liste du matériel de votre ferme | Plaque de 150 |  |
-| Date de semis | sowing_date | Pris en compte uniquement dans le cas d'implantation par semis direct et des plant autoproduit (format AAAA-MM-JJ) | 2024-01-25 |  |
-| Date de plantation | planting_date | Pris en compte uniquement dans le cas d'implantation par plant autoproduit ou acheté (format AAAA-MM-JJ) | 2024-03-05 |  |
-| Début de récolte | first_harvest_date | Format AAAA-MM-JJ | 2024-05-15 |  |
-| Fin de récolte | last_harvest_date | Format AAAA-MM-JJ | 2024-06-15 |  |
-| Objectif de surface en m² | block_area | Pris en compte uniquement dans le cas de culture sur surface libre | 100 |  |
-| Densité d'implantation par m² | block_density | Pris en compte uniquement dans le cas de culture sur surface libre, ne pas être utilisé simultanément avec block_spacing_rows et block_spacing_plants | 500 |  |
+|   |   |   |   |   |
+| Type de donnée | Nom de l'entête | Description | Exemple |   |
+| Saison | season | La saison à laquelle intégrer cette culture | 2024 |   |
+| Numéro de série | series_id | Les cultures avec un numéro de série identique seront rassemblées dans la même série et traitées comme des associations de culture | 123 |   |
+| Nom de la série | series_name | Le nom de la série pour cette culture | Carotte primeur |   |
+| Mode de culture | mode | Les valeurs possibles : open-field → plein-champ, greenhouse → sous abri, mix → mixte | open-field |   |
+| Utilisation du sol | use | Les valeurs possibles : bed → Culture sur planches, block → Culture sur surface libre | bed |   |
+| Espèce | species | Le nom de l'espèce doit correspondre à une espèce existante de votre ferme, seules les espèces annuelles sont acceptées. | Carotte |   |
+| Implantation | planting_type | Les valeurs possibles : sowing → semis direct, young-plant → plant autoproduit, young-plant-bought → plant acheté | young-plant |   |
+| Nombre de graines par trou | seeds_per_hole | Pris en compte dans le cas d'implantation par semis direct ou plant autoproduit | 3 |   |
+| Plateau de semis | young_plants_tray | Pris en compte uniquement dans le cas d'implantation par plant autoproduit et le plateau de semis doit avoir été préalablement créé dans la liste du matériel de votre ferme | Plaque de 150 |   |
+| Date de semis | sowing_date | Pris en compte uniquement dans le cas d'implantation par semis direct et des plant autoproduit (format AAAA-MM-JJ) | 2024-01-25 |   |
+| Date de plantation | planting_date | Pris en compte uniquement dans le cas d'implantation par plant autoproduit ou acheté (format AAAA-MM-JJ) | 2024-03-05 |   |
+| Début de récolte | first_harvest_date | Format AAAA-MM-JJ | 2024-05-15 |   |
+| Fin de récolte | last_harvest_date | Format AAAA-MM-JJ | 2024-06-15 |   |
+| Objectif de surface en m² | block_area | Pris en compte uniquement dans le cas de culture sur surface libre | 100 |   |
+| Densité d'implantation par m² | block_density | Pris en compte uniquement dans le cas de culture sur surface libre, ne pas être utilisé simultanément avec block_spacing_rows et block_spacing_plants | 500 |   |
 | Espacement entre les rangs en cm | block_spacing_rows | Pris en compte uniquement dans le cas de culture sur surface libre, ne pas être utilisé simultanément avec | block_density | 40 |
 | Espacement sur le rang en cm | block_spacing_plants | Pris en compte uniquement dans le cas de culture sur surface libre, ne pas être utilisé simultanément avec | block_density | 15 |
-| Objectif de longueur de planches en mL | bed_length | Pris en compte uniquement dans le cas de culture sur planches | 100 |  |
+| Objectif de longueur de planches en mL | bed_length | Pris en compte uniquement dans le cas de culture sur planches | 100 |   |
 | Densité d'implantation par m² | bed_density | Pris en compte uniquement dans le cas de culture sur planches, ne pas être utilisé simultanément avec bed_rows et | bed_spacing_plants | 500 |
 | Nombre de rangs par planche | bed_rows | Pris en compte uniquement dans le cas de culture sur planches, ne pas être utilisé simultanément avec | bed_density | 3 |
 | Espacement sur le rang en cm | bed_spacing_plants | Pris en compte uniquement dans le cas de culture sur planches, ne pas être utilisé simultanément avec | bed_density | 15 |
-| Série clôturée | finished | yes si la série est clôturée, no sinon | false |  |
-| Unité de récolte | harvest_unit | Les valeurs possibles : kg → au kg, unit → à la pièce, bunch → à la botte | bunch |  |
-| Objectif de rendement par m² | yield_expected_area | Le rendement attendu pour cette culture en fonction de l'unité de récolte choisie | 3.5 |  |
-| Nom de la variété | variety_name | Une variété utilisée pour cette culture. Il est possible d'enchainer les colonnes variety_name et variety_part autant de fois que nécessaire dans le fichier CSV à importer. | Andine cornue |  |
-| Fréquence de la variété en % | variety_part | La part de la variété dans la culture. La somme des variétés doit être égale à 100. |  |  |
+| Série clôturée | finished | yes si la série est clôturée, no sinon | false |   |
+| Unité de récolte | harvest_unit | Les valeurs possibles : kg → au kg, unit → à la pièce, bunch → à la botte | bunch |   |
+| Objectif de rendement par m² | yield_expected_area | Le rendement attendu pour cette culture en fonction de l'unité de récolte choisie | 3.5 |   |
+| Nom de la variété | variety_name | Une variété utilisée pour cette culture. Il est possible d'enchainer les colonnes variety_name et variety_part autant de fois que nécessaire dans le fichier CSV à importer. | Andine cornue |   |
+| Fréquence de la variété en % | variety_part | La part de la variété dans la culture. La somme des variétés doit être égale à 100. |   |   |
 
-=== Nouveau titre===
+===== Importer un fichier CSV depuis Qrop =====
+
+Pour récupérer le fichier CSV de Qrop à importer sur Ouvretaferme, il vous suffit de sélectionner //Exporter le plan de culture//.
+
+{{:import:import-qrop.png}}
+
+Notez que vous aurez probablement des corrections à faire dans le fichier CSV issu de Qrop, notamment au niveau des unités de récolte ou des espèces. Ouvretaferme vous fera un rapport des modifications à effectuer après chargement de votre fichier.
+
+===== Importer un fichier CSV depuis Brinjel =====
+
+Pour récupérer le fichier CSV de Brinjel à importer sur Ouvretaferme :
+
+  * Allez dans **Paramètres**
+  * Dans la section **Données de la ferme**, téléchargez le **Plan de culture seul**
+
+Notez que vous aurez probablement des corrections à faire dans le fichier CSV issu de Brinjel, notamment au niveau des unités de récolte ou des espèces. Ouvretaferme vous fera un rapport des modifications à effectuer après chargement de votre fichier.
+
+
+<wrap btn--secondary>[[https://app.brinjel.com/|Aller sur Brinjel]]</wrap>
+
