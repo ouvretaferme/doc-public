@@ -1,0 +1,110 @@
+====== Les cagnottes ======
+
+=== Comment utiliser le système de cagnotte proposé par Ouvretaferme ? ===
+
+===== À quoi servent les cagnottes ? =====
+
+Les cagnottes permettent d'enregistrer les avances réglées par vos clients particuliers qui seront dépensées plus tard pour acheter vos produits. L'exemple typique de l'utilisation de cette fonctionnalité est la mise en place d'une cagnotte dans votre AMAP pour que vos clients vous règlent en début de période et utilisent ensuite leur cagnotte dans vos boutiques en ligne.
+
+Le fonctionnement
+
+  - Vous activez la cagnotte pour les clients de votre choix
+  - Vous créditez la cagnotte de vos clients en fonction des règlements que vous avez reçus
+  - Les clients peuvent utiliser leur cagnotte dans les boutiques en ligne ou vous-mêmes pouvez débiter leur cagnotte dans vos règlements
+  - Vous pouvez intégrer les mouvements sur les cagnottes en quelques clics dans votre comptabilité
+  - Sur option, vous pouvez permettre à vos clients de recharger leur cagnotte par carte bancaire directement sur Ouvretaferme
+
+**Les cagnottes ne peuvent pas être utilisées pour des activités de financement participatif. Cette fonctionnalité doit être utilisée exclusivement pour traiter les avances versées par vos clients.**
+
+==== Commencer avec les cagnottes ====
+
+La page de suivi des cagnottes est accessible depuis la page de gestion de vos clients. Cette page centralisatrice vous permet d'activer la cagnotte pour un client donné et de suivre le solde et l'historique de toutes les cagnottes.
+
+{{:selling:wallet-start.png}}
+
+===== Activer la cagnotte pour un client =====
+
+Vous pouvez activer la cagnotte pour un client depuis la page des cagnottes ou directement sur la fiche du client en question. Lorsque vous activez la cagnotte pour un client, saisissez le solde initial, c'est-à-dire le solde de la cagnotte du client avant que vous n'utilisiez Ouvretaferme pour faire votre suivi.
+
+{{:selling:wallet-create.png}}
+
+===== Créditer la cagnotte d'un client =====
+
+Vous avez deux solutions pour créditer la cagnotte d'un client :
+
+  * Soit manuellement depuis la page de suivi des cagnottes
+  * Soit en autorisant vos clients à recharger eux-mêmes leurs cagnottes depuis la page de paramétrage si vous avez activé le paiement de le paiement en ligne par Stripe
+
+{{:selling:wallet-credit.png}}
+
+===== Utiliser la cagnotte d'un client =====
+
+==== Quand la cagnotte est-elle débitée ? ====
+
+La cagnotte de votre client est débitée lorsqu'un règlement est marqué **Payé** sur une vente ou une facture de ce client.\\ Cela peut être :
+
+  * De votre fait lorsque vous marquez vous-même la transaction comme réglée
+  * Directement à la création de la vente lorsque le client utilise sa cagnotte dans les boutiques en ligne et que vous avez paramétré la cagnotte pour un débit immédiat
+
+Cela signifie que si vous laissez un règlement avec la cagnotte comme **Non payé**, la cagnotte n'est pas débitée.
+
+Dans l'exemple ci-dessous, vous êtes en train de choisir le règlement pour une vente. Vous avez sélectionné le mode de règlement **Cagnotte** et l'état du paiement est renseigné comme **Payé**. La cagnotte de ce client va donc être débitée de 18 € au moment de l'enregistrement du règlement. Une alerte vous le rappelle par ailleurs.
+
+{{:selling:wallet-debit.png}}
+
+==== Est-il possible de d'annuler un règlement ? ====
+
+Non, dès lors qu'un règlement est marqué comme **Payé** avec la cagnotte, il n'est plus possible d'annuler l'opération.
+
+Si vous souhaitez corriger une erreur, il vous suffit d'enregistrer une **Annulation de l'encaissement d'un règlement** qui aura pour effet de débiter la cagnotte du montant saisi.
+
+{{:selling:wallet-cancel.png}}
+
+===== Astuces =====
+
+==== Permettre à vos clients de recharger leur cagnotte par carte bancaire ====
+
+Depuis la section de paramétrage, vous pouvez autoriser vos clients à recharger leur cagnotte par carte bancaire. Vous pouvez définir une valeur par défaut et des bornes minimale et maximale.
+
+{{:selling:wallet-refill.png}}
+
+Si les clients n'ont pas un solde suffisant pour commander sur vos boutiques en ligne, il sont incités à recharger leur cagnotte avant de finaliser leur commande :
+
+{{:selling:wallet-shop.png}}
+
+==== Autoriser vos clients à consulter le solde de leur cagnotte ====
+
+Depuis la section de paramétrage, vous pouvez autoriser vos clients à consulter le solde et l'historique de leur cagnotte depuis leur compte client. Activer cette option vous oblige à un suivi extrêmement rigoureux de vos cagnottes car les clients voient toutes les opérations que vous réalisez dessus.
+
+{{:selling:wallet-public.png}}
+
+==== Débiter ou non à la commande la cagnotte des clients dans les boutiques en ligne ====
+
+Depuis la section de paramétrage, vous pouvez choisir si :
+
+  * Vous débitez la cagnotte de vos clients dès leur commande dans les boutiques en ligne, auquel cas la vente sera directement marquée comme **Payée**
+  * Vous ne débitez pas la cagnotte à la commande et dans ce cas, ce sera à vous de marquer la vente comme **Payée** ultérieurement pour la débiter
+
+{{:selling:wallet-paid.png}}
+
+==== Intégration en comptabilité ====
+
+Si vous tenez une comptabilité selon le plan comptable agricole, vous pouvez activer l'option qui permet d'enregistrer les numéros de compte pour chaque opération sur le cagnotte. Vous pourrez ainsi soit :
+
+  * Exporter un fichier FEC depuis la page de précomptabilité
+  * Créer automatiquement les écritures comptables liées aux cagnottes si vous tenez votre comptabilité avec Ouvretaferme
+
+{{:selling:wallet-accounting.png}}
+
+==== Ajouter un raccourci vers vos cagnottes dans le menu principal ====
+
+Si vous utilisez beaucoup la fonctionnalité de cagnottes, vous pouvez ajouter un raccourci vers la page de suivi de vos cagnottes dans le menu de Commercialisation depuis la section de paramétrage.
+
+{{:selling:wallet-menu.png}}
+
+==== Créditer les cagnottes de vos clients directement depuis vos relevés bancaires ====
+
+Si vos clients vous font des virements bancaires pour créditer leur cagnotte, rendez-vous sur la Banque pour faire le rapprochement automatiquement !
+
+{{:selling:wallet-bank.png}}
+
