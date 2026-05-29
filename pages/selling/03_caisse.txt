@@ -1,0 +1,118 @@
+====== Le logiciel de caisse ======
+
+=== Comment utiliser le logiciel de caisse proposé par Ouvretaferme ? ===
+
+===== À quoi sert le logiciel de caisse ? =====
+
+Le logiciel de caisse proposé par Ouvretaferme vous permet d'enregistrer les ventes que vous réalisez pendant vos marchés avec une tablette ou un téléphone. C'est une solution simple et efficace qui permet de gérer un grand nombre de clients par heure.
+
+Il fonctionne de la manière suivante :
+
+  - Vous créez une nouvelle vente en activant le logiciel de caisse
+  - Vous choisissez la gamme de produits disponibles à la vente
+  - Vous amenez une tablette ou votre téléphone au marché
+  - Lorsque les ventes démarrent, vous saisissez les commandes de vos clients directement sur votre tablette
+  - Une fois le marché terminé, vous clôturez la caisse
+  - En fin de saison, vous retrouvez dans l'analyse des ventes une synthèse complète de ce que vous avez vendu dans l'année
+
+Le logiciel de caisse est pleinement utilisable pour toutes les productions.\\ Il est utilisé quotidiennement par des paysans boulangers, des apiculteurs, des éleveurs ou des maraîchers...
+
+==== L'interface du logiciel de caisse ====
+
+{{:selling:market-example.png}}
+
+Conformément à la loi, vous pouvez fournir en cas de contrôle une attestation à télécharger et à compléter.
+
+===== Utiliser le logiciel de caisse pas à pas =====
+
+==== Activer le logiciel de caisse ====
+
+=== ① Allez sur la page du logiciel de caisse ===
+
+=== ② Créez un point de vente ===
+
+Vous devez créer un client de type **Point de vente pour les particuliers** en indiquant le nom de votre marché comme nom de client.
+
+{{:selling:market-customer.png}}
+
+=== ③ Créez une première vente ===
+
+Une fois le client créé, vous pouvez maintenant lui créer une vente en veillant à activer le logiciel de caisse pour cette vente.
+
+{{:selling:market-sale.png}}
+
+Vous pouvez en profiter pour sélectionner les produits que vous voulez proposer à la vente. Il n'est pas indispensable de sélectionner les produits à cette étape, vous pourrez également le faire à l'étape suivante.
+
+{{:selling:market-product.png}}
+
+=== ④ Terminez de configurer votre vente ===
+
+Une fois la vente créée, vous pouvez encore compléter votre gamme. Pour chaque produit, vous pouvez indiquer la quantité que vous souhaitez emporter au marché. Cela peut vous être notamment utile pour préparer vos récoltes ou vos conditionnements.
+
+{{:selling:market-configure.png}}
+
+=== ⑤ Démarrer la vente ===
+
+Vous avez complété votre gamme ? Votre étal est prêt ?
+
+Il ne vous reste plus qu'à cliquer sur le bouton "Ouvrir le logiciel de caisse" pour commencer à vendre !
+
+{{:selling:market-welcome.png}}
+
+==== Face au client ====
+
+Utilisez tout simplement le bouton //Créer une vente// pour commencer à saisir les produits achetés par un client.
+
+Pour chaque produit, un clavier numérique vous permet d'effectuer une saisie rapide, et vous avez également la possibilité d'ajouter des remises pour vos clients préférés.
+
+{{:selling:market-item.png}}
+
+Si vous connaissez votre client, vous avez la possibilité d'associer la vente à un client en cliquant sur __Anonyme__ puis en tapant le nom du client. Par la suite, les prix personnalisés pour le client s'appliquent dans le logiciel de caisse.
+
+Pour terminer une vente avec un client avec le bouton __Vente payée__, vous devez préalablement indiquer au moins un mode de règlement, ce qui est une obligation légale.
+
+==== Clôturer la caisse ====
+
+Lorsque votre marché est terminé, vous avez l'obligation de clôturer la caisse, ce qui permet d'intégrer les données des transactions à votre comptabilité.
+
+== Attention, la clôture fige les données des transactions ==
+
+  * Vous ne pourrez plus modifier les ventes
+  * Vous ne pourrez plus modifier les moyens de paiement
+
+===== Astuces =====
+
+==== Configurer les marchés suivants en un clic ====
+
+Créer votre premier marché avec le logiciel de caisse va prendre un peu de temps, car vous devrez ajouter manuellement les produits que vous souhaitez vendre dans le logiciel. Pour les marchés suivants, nous vous recommandons d'utiliser la fonctionnalité qui permet de repartir d'une vente précédente.
+
+En dupliquant votre marché précédent, vous n'avez plus qu'à choisir la nouvelle date de vente et la liste des produits que vous avez vendus la dernière fois est automatiquement reportée. Il vous restera éventuellement à supprimer les quelques produits que vous avez sortis de la vente et ajouter ceux qui entrent dans la gamme !
+
+{{:selling:market-duplicate.png}}
+
+==== Vendre à plusieurs ====
+
+Vous pouvez être plusieurs à utiliser le logiciel de caisse simultanément sur un même marché. Dans ce cas, nous vous suggérons de vous connecter avec des comptes différents pour que chacun puisse retrouver facilement les ventes qu'il gère avec son avatar.
+
+==== Ajouter un produit au dernier moment dans le logiciel de caisse ====
+
+Si vous avez oublié d'ajouter un produit à votre caisse, utilisez l'onglet __Articles__ pour ajouter le produit manquant. Cet onglet vous permet également de modifier les prix de vente.
+
+==== Vous permettez à certains clients de payer plus tard ? ====
+
+Si vous permettez à certains clients de payer plus tard (par exemple sur facture en fin de mois), vous avez la possibilité de sélectionner l'option //Vente en paiement différé// à la place de //Vente payée//. En choisissant cette option, la vente sera sortie du logiciel de caisse et sera intégrée à la page des ventes de votre ferme.
+
+{{:selling:market-later.png}}
+
+==== Mettre le curseur sur la quantité par défaut ====
+
+Par défaut, c'est le champ de __Prix__ qui est sélectionné pour les produits vendus au poids. Si cela nous vous convient pas, vous pouvez sélectionner le champ __Quantité__ par défaut dans les réglages généraux du module __Vendre__.
+
+{{:selling:market-settings.png}}
+
+==== Compléter automatiquement votre journal de caisse ====
+
+Si vous utilisez Ouvretaferme pour réaliser le journal de caisse de votre ferme, vous pouvez automatiquement y reporter le montant des ventes réalisées lors de vos marchés.
+
+{{:selling:market-register.png}}
+
