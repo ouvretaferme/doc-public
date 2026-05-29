@@ -37,3 +37,12 @@ Un import des produits depuis **Elzeard** est également possible avec un conver
 
 Certaines données qui ne s'appliquent qu'à certains profils de produits peuvent être ajoutées à votre fichier CSV.\\ Par exemple, la colonne pour définir la variété d'un produit ne sera prise en compte que pour les produits d'origine végétale.
 
+^ Type de donnée ^ Nom de l'entête ^ Description ^ Exemple ^
+| Mode de distribution | ''distribution'' | Le mode de distribution du produit parmi : \\ ''production'' → Produit issu de votre production \\ ''resale'' → Produit en achat-revente \\ Si ce champ n'est pas fourni, le produit sera considéré comme issu de votre propre production. \\ **Utilisable pour :** Produit d'origine végétale, Produit d'origine animale, Produit alimentaire transformé, Produit non alimentaire, Autre produit | production |
+| Espèce | ''species'' | Le nom de l'espèce dont fait partie ce produit et qui doit correspondre à une espèce existante de votre ferme. \\ **Utilisable pour :** Produit d'origine végétale | Tomate |
+| Variété | ''variety'' | Un nom de variété \\ **Utilisable pour :** Produit d'origine végétale | Coeur de boeuf |
+| Surgelé | ''frozen'' | ''yes'' si le produit est vendu surgelé, ''no'' ou vide sinon \\ **Utilisable pour :** Produit d'origine animale, Produit alimentaire transformé | false |
+| Conditionnement | ''packaging'' | Le conditionnement du produit \\ **Utilisable pour :** Produit d'origine végétale, Produit d'origine animale, Produit alimentaire transformé, Produit non alimentaire | Pack de 6 bouteilles |
+| Composition | ''composition'' | La composition du produit \\ **Utilisable pour :** Produit alimentaire transformé, Produit non alimentaire | Purée de noisette (90 %), Sucre de canne (10 %) |
+| Allergènes | ''allergen'' | Les allergènes du produit \\ **Utilisable pour :** Produit alimentaire transformé | Traces de fruits à coques |
+| Description | ''description'' | La description du produit en texte simple | Facile à cuisiner, cette pomme de terre ravira vos papilles. |
