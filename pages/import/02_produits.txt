@@ -1,0 +1,28 @@
+====== Importer des produits ======
+
+=== Vous pouvez importer des produits au format CSV. Cette fonctionnalité peut vous être utile si vous utilisiez d'autres logiciels avant Ouvretaferme ou si vous voulez concevoir plus facilement votre gamme de produits sur tableur ! ===
+
+===== Importer des produits au format CSV =====
+
+Les produits que vous importez au format CSV sont ajoutés à la liste de vos produits existants, à l'exception de ceux que vous tentez d'importer sous une référence déjà existante. Les produits concernés ne seront pas ajoutés une deuxième fois mais seront modifiés avec les nouvelles valeurs, à l'exception de l'unité de vente qui ne peut pas être modifiée par un import.
+
+**Si vous réimportez un produit avec une référence identique, toutes les valeurs seront mises à jour y compris celles qui ne sont pas présentes dans votre fichier CSV. Soyez donc vigilant car si vous importez un fichier sans la colonne //quality// par exemple, tous les produits réimportés avec une référence identique perdront leur signe de qualité.**
+
+Le fichier CSV que vous importez doit comporter une ligne par produit, et les colonnes de ce fichier doivent correspondre à la liste des données à fournir décrite plus bas.
+
+  * La première ligne du fichier CSV correspond aux en-têtes qui doivent être recopiées sans modification
+  * Le séparateur des colonnes dans le fichier est la virgule (,)
+  * Le fichier doit être enregistré au format UTF-8 ou UTF-16
+
+<wrap btn--secondary>[[https://www.ouvretaferme.org/asset/commercialisation/product/products.csv?1099317361977018|Télécharger un exemple CSV]]</wrap>
+
+===== Vous utilisiez Elzeard ? =====
+
+Un import des produits depuis **Elzeard** est également possible avec un convertisseur proposé par Alexis, qui transformera le format d'export de Elzeard vers le format de Ouvretaferme ([[https://github.com/atantet/elzeard2otf/|voir le script en Python sur Github]])
+
+==== Liste des données à fournir ====
+
+==== Autres données que vous pouvez fournir ====
+
+Certaines données qui ne s'appliquent qu'à certains profils de produits peuvent être ajoutées à votre fichier CSV.\\ Par exemple, la colonne pour définir la variété d'un produit ne sera prise en compte que pour les produits d'origine végétale.
+
