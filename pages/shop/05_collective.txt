@@ -1,0 +1,45 @@
+====== Boutiques collectives ======
+
+=== Les boutiques collectives permettent de partager un même espace de vente entre plusieurs producteurs ! ===
+
+===== Administrer une boutique collective =====
+
+La création d'une boutique collective doit être l'aboutissement d'une réflexion partagée avec vos collègues. Nous vous conseillons fortement de travailler en amont le cadre de votre collaboration, et de vous assurer que les fonctionnalités de Ouvretaferme sont compatibles avec ce cadre.
+
+===== Rejoindre une boutique collective =====
+
+Un producteur ne peut rejoindre une boutique collective que s'il dispose d'un code d'invitation valide. Attention, pour des raisons de sécurité, les codes d'invitation ont une durée de vie limitée.
+
+===== Démarrer une boutique collective =====
+
+Lorsque vous démarrez la création d'une boutique collective, Ouvretaferme vous demande d'abord de créer une ferme pour administrer cette boutique. Si vous souhaitez que plusieurs producteurs administrent votre boutique, vous pourrez inviter ces producteurs comme administrateurs de cette ferme dédiée.
+
+Une fois la boutique collective créée, vous pouvez démarrer simplement la configuration :
+
+  * Invitez les producteurs sur la boutique
+  * Demander à chaque producteur d'associer un ou plusieurs de leurs catalogues à la boutique
+  * Optionnellement, personnalisez les rayons de votre boutique (par exemple avec des rayons //Fruits et légumes//, //Plants potagers//...) et associez chaque catalogue à un rayon
+  * Créez une première vente en sélectionnant les producteurs disponibles pour participer à cette vente !
+
+===== Qui peut faire quoi sur une boutique collective ? =====
+
+==== Un producteur peut : ====
+
+  * Configurer les catalogues qu'il souhaite associer à la boutique
+  * Définir les catalogues proposés pour chaque vente
+  * Ajouter, modifier ou supprimer des quantités sur les commandes qui le concernent
+
+==== Un administrateur de la boutique peut en plus : ====
+
+  * Inviter ou exclure des producteurs de la boutique
+  * Configurer la boutique et le rayonnage
+
+**Nous vous rappelons que Ouvretaferme ne propose volontairement pas de fonctionnement prédéterminé pour la préparation et la logistique des commandes réalisées dans les boutiques collectives. C'est aux producteurs de s'organiser et de trouver un fonctionnement qui leur convient.**
+
+===== Limites des boutiques collectives =====
+
+Quelques limites ont été introduites dans les boutiques collectives par rapport aux boutiques personnelles :
+
+  * Le choix du mode de règlement est désactivé et c'est à vous d'informer les clients sur la façon dont ils peuvent régler leurs commandes
+  * Il n'est pas possible de configurer des frais de livraison
+
