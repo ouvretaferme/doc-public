@@ -18,17 +18,15 @@ Le fichier CSV que vous importez doit comporter une ligne par immobilisation, et
 
 ==== Liste des données à fournir ====
 
-|  |  |  |  |
-| Type de donnée | Nom de l'entête | Description | Exemple |
-| Numéro de compte | account | Le numéro de compte auquel correspond votre immobilisation | 2154 |
-| Libellé | description | Le nom de votre immobilisation | Irrigation |
-| Valeur d'acquisition | value | Le prix de l'acquisition de votre immobilisation, sur lequel sont basés les calculs d'amortissement | 1244.35 |
-| Mode d'amortissement économique | economic_mode | Les valeurs possibles :- S ou Sans → Sans amortissement- L ou LIN → Linéaire- D ou DEG → Dégressif | L |
-| Durée d'amortissement économique | economic_duration | La durée de l'amortissement économique, exprimée en mois | 120 |
-| Montant déjà amorti | economic_amortization | Ce qui a déjà été amorti jusqu'à la réintégration dans Ouvretaferme | 1000 |
-| Mode d'amortissement fiscal | fiscal_mode | Les valeurs possibles sont les mêmes que pour le mode d'amortissement économique. Si cette donnée n'est pas indiquée, c'est le mode d'amortissement économique qui sera utilisé | L |
-| Durée d'amortissement fiscal | fiscal_duration | La durée de l'amortissement fiscal, exprimée en mois. Si cette donnée n'est pas indiquée, c'est la durée de l'amortissement économique qui sera utilisée. | 120 |
-| Date d'acquisition | acquisition_date | Date d'acquisition de l'immobilisation | 2025-04-03 |
-| Date de mise en service | start_date | Date de mise en service. Si cette donnée n'est pas indiquée, c'est la date d'acquisition qui sera utilisée.\\ ⚠ Attention aux acquisitions au 31/12 avec mise en service le 01/01 de l'année suivante : la date de mise en service est importante pour ne démarrer l'amortissement que l'année de la mise en service. | 2025-04-03 |
-| Valeur résiduelle | residual_value | La valeur résiduelle du bien, à 0 si l'information n'est pas indiquée. | 90 |
-
+^ Type de donnée ^ Nom de l'entête ^ Description ^ Exemple ^
+| Numéro de compte | ''account'' | Le numéro de compte auquel correspond votre immobilisation | 2154 |
+| Libellé | ''description'' | Le nom de votre immobilisation | Irrigation |
+| Valeur d'acquisition | ''value'' | Le prix de l'acquisition de votre immobilisation, sur lequel sont basés les calculs d'amortissement | 1244.35 |
+| Mode d'amortissement économique | ''economic_mode'' | Les valeurs possibles : \\ ''S'' ou ''Sans'' → Sans amortissement \\ ''L'' ou ''LIN'' → Linéaire \\ ''D'' ou ''DEG'' → Dégressif | L |
+| Durée d'amortissement économique | ''economic_duration'' | La durée de l'amortissement économique, exprimée en mois | 120 |
+| Montant déjà amorti | ''economic_amortization'' | Ce qui a déjà été amorti jusqu'à la réintégration dans Ouvretaferme | 1000 |
+| Mode d'amortissement fiscal | ''fiscal_mode'' | Les valeurs possibles sont les mêmes que pour le mode d'amortissement économique. Si cette donnée n'est pas indiquée, c'est le mode d'amortissement économique qui sera utilisé. | L |
+| Durée d'amortissement fiscal | ''fiscal_duration'' | La durée de l'amortissement fiscal, exprimée en mois. Si cette donnée n'est pas indiquée, c'est la durée de l'amortissement économique qui sera utilisée. | 120 |
+| Date d'acquisition | ''acquisition_date'' | Date d'acquisition de l'immobilisation | 2025-04-03 |
+| Date de mise en service | ''start_date'' | Date de mise en service. Si cette donnée n'est pas indiquée, c'est la date d'acquisition qui sera utilisée. \\ **Attention aux acquisitions au 31/12 avec mise en service le 01/01 de l'année suivante** : la date de mise en service est importante pour ne démarrer l'amortissement que l'année de la mise en service. | 2025-04-03 |
+| Valeur résiduelle | ''residual_value'' | La valeur résiduelle du bien, à 0 si l'information n'est pas indiquée. | 90 |
