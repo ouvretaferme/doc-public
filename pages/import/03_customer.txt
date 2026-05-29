@@ -14,7 +14,7 @@ Le fichier CSV que vous importez doit comporter une ligne par client, et les col
 
 <wrap btn--secondary>[[https://www.ouvretaferme.org/asset/commercialisation/selling/customers.csv?6ad4f14b|Télécharger un exemple CSV]]</wrap>
 
-
+==== Liste des données à fournir ====
 
 ^ Type de donnée ^ Nom de l'entête ^ Description ^ Exemple ^
 | Type de client | ''type'' | Les valeurs possibles : \\ ''Particulier'' → Particulier \\ ''Professionnel'' → Professionnel | Particulier |
@@ -41,3 +41,4 @@ Le fichier CSV que vous importez doit comporter une ligne par client, et les col
 | Code postal | ''invoice_postcode'' | Le code postal de l'adresse de facturation | 42420 |
 | Ville | ''invoice_city'' | La ville de l'adresse de facturation | Maville |
 | Pays | ''invoice_country'' | Le pays de l'adresse de facturation. Pour connaitre la liste des pays acceptés, reportez-vous au menu déroulant sur la page de modification d'un client. **Vous devez au moins fournir un pays pour votre client, que ce soit le pays de livraison ou de facturation.** | France |
+
