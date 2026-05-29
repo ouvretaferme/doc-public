@@ -13,3 +13,31 @@ Le fichier CSV que vous importez doit comporter une ligne par client, et les col
   * Le fichier doit être enregistré au format UTF-8 ou UTF-16
 
 <wrap btn--secondary>[[https://www.ouvretaferme.org/asset/commercialisation/selling/customers.csv?6ad4f14b|Télécharger un exemple CSV]]</wrap>
+
+
+
+^ Type de donnée ^ Nom de l'entête ^ Description ^ Exemple ^
+| Type de client | ''type'' | Les valeurs possibles : \\ ''Particulier'' → Particulier \\ ''Professionnel'' → Professionnel | Particulier |
+| Prénom | ''private_first_name'' | Le prénom du client \\ **Uniquement pour les clients Particulier** | Tomate |
+| Nom | ''private_last_name'' | Le nom de famille du client \\ **Uniquement pour les clients Particulier** | Tomate |
+| Nom commercial | ''pro_commercial_name'' | Le nom commercial du client \\ **Uniquement pour les clients Professionnel** | Biocoop d'ici |
+| Raison sociale | ''pro_legal_name'' | La raison sociale du client. Peut-être laissée vide si elle est identique au nom commercial. \\ **Uniquement pour les clients Professionnel** | SAS Biocoop ICI |
+| E-mail | ''email'' | L'e-mail principal du client qu'il pourra utiliser pour se connecter à son compte client si vous l'y avez invité | toto@exemple.fr |
+| Inviter ce client à créer un compte client | ''invite'' | ''yes'' pour envoyer un e-mail à l'adresse indiquée dans la colonne ''email'' pour inciter votre client à se créer un mot de passe, ''no'' ou vide sinon | yes |
+| Numéro de téléphone | ''phone'' | Le numéro de téléphone du client | 5 |
+| Groupes | ''groups'' | Les groupes auxquels appartient le client. Indiquez le nom des groupes séparés par des virgules. | AMAP / Petit panier |
+| Nom du contact | ''pro_contact_name'' | Le nom de votre contact chez ce client professionnel \\ **Uniquement pour les clients Professionnel** | Jacques Durand |
+| Numéro de SIRET | ''pro_siret'' | Le numéro de SIRET du professionnel \\ **Uniquement pour les clients Professionnel** | 12345678901234 |
+| Numéro de TVA | ''pro_vat_number'' | Le numéro de TVA intracommunautaire du professionnel \\ **Uniquement pour les clients Professionnel** | FR76123456789 |
+| **Adresse de livraison** \\ //L'adresse de livraison sera aussi utilisée pour la facturation si vous ne renseignez pas d'adresse de facturation.// ||||
+| Ligne 1 | ''delivery_street_1'' | La première ligne de l'adresse de livraison | 13 rue des Oiseaux |
+| Ligne 2 | ''delivery_street_2'' | La deuxième ligne de l'adresse de livraison | Lieu dit les Moineauxs |
+| Code postal | ''delivery_postcode'' | Le code postal de l'adresse de livraison | 42420 |
+| Ville | ''delivery_city'' | La ville de l'adresse de livraison | Maville |
+| Pays | ''delivery_country'' | Le pays de l'adresse de livraison. Pour connaitre la liste des pays acceptés, reportez-vous au menu déroulant sur la page de modification d'un client. **Vous devez au moins fournir un pays pour votre client, que ce soit le pays de livraison ou de facturation.** | France |
+| **Adresse de facturation** \\ //Peut être laissée vide si elle correspond à l'adresse de livraison// ||||
+| Ligne 1 | ''invoice_street_1'' | La première ligne de l'adresse de facturation | 13 rue des Oiseaux |
+| Ligne 2 | ''invoice_street_2'' | La deuxième ligne de l'adresse de facturation | Lieu dit les Moineauxs |
+| Code postal | ''invoice_postcode'' | Le code postal de l'adresse de facturation | 42420 |
+| Ville | ''invoice_city'' | La ville de l'adresse de facturation | Maville |
+| Pays | ''invoice_country'' | Le pays de l'adresse de facturation. Pour connaitre la liste des pays acceptés, reportez-vous au menu déroulant sur la page de modification d'un client. **Vous devez au moins fournir un pays pour votre client, que ce soit le pays de livraison ou de facturation.** | France |
