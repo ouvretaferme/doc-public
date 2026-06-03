@@ -7,6 +7,13 @@ Pour démarrer la comptabilité sur Ouvretaferme, vous aurez besoin d'un exercic
 {{youtube>q7YgDDGeZJg?full}}
 
 
+Et après ?
+
+  * Soit vous [[accounting:03_go#importer_un_fichier_fec|importez un fichier FEC]]
+  * Soit vous réalisez votre bilan d'ouverture sans exercice précédent (votre exercice sera juste ouvert)
+  * Soit vous réalisez votre bilan d'ouverture après avoir réalisé le bilan de clôture de l'exercice précédent : Ouvretaferme vous présentera les écritures qui seront passées automatiquement après votre validation
+
+
 ===== Réaliser le bilan d'ouverture =====
 
 Un bilan d'ouverture (BO) sera créé dans l'un des deux cas suivants :
