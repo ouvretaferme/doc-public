@@ -6,7 +6,10 @@ Pour que les amortissements se calculent automatiquement à chaque clôture, et 
 
 {{:accounting:asset-create.png}}Une fois créée, vous pouvez tout de suite consulter son plan d'amortissement en cliquant dessus :
 
-{{:accounting:asset-fiche.png}}
+{{:accounting:asset-fiche.png}}Tant qu'elle n'a pas été amortie une première fois sur Ouvretaferme, une immobilisation peut être modifiée ou supprimée.
+
+Dès qu'elle a été amortie au moins une fois sur le logiciel, vous ne pourrez plus la modifier, mais vous pourrez toujours en faire une cession (vente ou mise au rebut) en fonction de votre besoin.
+
 
 ===== Comment importer mes immobilisations ? =====
 
