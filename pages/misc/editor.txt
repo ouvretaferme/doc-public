@@ -29,9 +29,10 @@ Si vous souhaitez insérer un lien vers une vidéo et que la vidéo s'affiche, t
 
 Ensuite, utiliser le code suivant :
 
-''%%{{youtube>ID_DE_LA_VIDEO}}%%''
+''%%{{youtube>ID_DE_LA_VIDEO?full}}%%''
 
 Pour trouver la valeur ID_DE_LA_VIDEO, il faut regarder le lien. Par exemple, pour la vidéo sur la facturation électronique, le lien est [[https://youtu.be/dl3BC-RirkI]]. Donc la valeur ID_DE_LA_VIDEO est //dl3BC-RirkI//.
+
 
 ==== Astuce générale ====
 
