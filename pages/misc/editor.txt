@@ -36,6 +36,14 @@ Pour trouver la valeur ID_DE_LA_VIDEO, il faut regarder le lien. Par exemple, po
 
 //?full// sert à indiquer que la vidéo doit prendre toute la largeur d'affichage de l'article.
 
+=== Pour insérer un lien sous forme de bouton ===
+
+Commencez par utiliser ce code :
+
+''%%<wrap btn--secondary>Texte du bouton</wrap>%%''
+
+Puis sélectionner "Texte du bouton" et ajoutez-y votre lien depuis l'éditeur (icône de chaîne 🔗).
+
 
 ==== Astuce générale ====
 
