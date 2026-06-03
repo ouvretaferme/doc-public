@@ -1,6 +1,10 @@
 ====== Les immobilisations ======
 
-Pour que les amortissements se calculent automatiquement à chaque clôture, et pour un bon suivi de vos immobilisations, vous devez  * soit créer une fiche * soit sélectionner l'écriture comptable qui correspond à votre immobilisation et choisir "Créer une immobilisation" dans ses options.
+Pour que les amortissements se calculent automatiquement à chaque clôture, et pour un bon suivi de vos immobilisations, vous devez
+
+  * soit créer une fiche 
+  * soit sélectionner l'écriture comptable qui correspond à votre immobilisation et choisir "Créer une immobilisation" dans ses options.
+
 
 ===== Créer une immobilisation =====
 
