@@ -38,7 +38,7 @@ Pour trouver la valeur ID_DE_LA_VIDEO, il faut regarder le lien. Par exemple, po
 
 //?full// sert à indiquer que la vidéo doit prendre toute la largeur d'affichage de l'article.
 
-=== Pour insérer un lien sous forme de bouton ===
+==== Pour insérer un lien sous forme de bouton ====
 
 Ouvrez le menu "puzzle", et choisissez "Plugin inline". Remplacez le texte fixme par ce code :
 
