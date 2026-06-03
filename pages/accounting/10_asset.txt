@@ -1,4 +1,12 @@
-====== Importer les immobilisations ======
+====== Les immobilisations ======
+
+Pour que les amortissements se calculent automatiquement à chaque clôture, et pour un bon suivi de vos immobilisations, vous devez  * soit créer une fiche * soit sélectionner l'écriture comptable qui correspond à votre immobilisation et choisir "Créer une immobilisation" dans ses options.
+
+===== Créer une immobilisation =====
+
+{{:accounting:asset-create.png}}Une fois créée, vous pouvez tout de suite consulter son plan d'amortissement en cliquant dessus :
+
+{{:accounting:asset-fiche.png}}
 
 ===== Comment importer mes immobilisations ? =====
 
@@ -15,7 +23,6 @@ Le fichier CSV que vous importez doit comporter une ligne par immobilisation, et
 
 [[https://www.ouvretaferme.org/asset/accounting/asset/immobilisations.csv|Télécharger un exemple de fichier CSV]]
 
-
 ==== Liste des données à fournir ====
 
 ^ Type de donnée ^ Nom de l'entête ^ Description ^ Exemple ^
@@ -30,3 +37,4 @@ Le fichier CSV que vous importez doit comporter une ligne par immobilisation, et
 | Date d'acquisition | ''acquisition_date'' | Date d'acquisition de l'immobilisation | 2025-04-03 |
 | Date de mise en service | ''start_date'' | Date de mise en service. Si cette donnée n'est pas indiquée, c'est la date d'acquisition qui sera utilisée. \\ **Attention aux acquisitions au 31/12 avec mise en service le 01/01 de l'année suivante** : la date de mise en service est importante pour ne démarrer l'amortissement que l'année de la mise en service. | 2025-04-03 |
 | Valeur résiduelle | ''residual_value'' | La valeur résiduelle du bien, à 0 si l'information n'est pas indiquée. | 90 |
+
