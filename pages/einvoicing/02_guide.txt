@@ -2,7 +2,6 @@
 
 {{:einvoicing:facturation-electronique.png?300}}
 
-
 ===== Utiliser la plateforme agréée proposée par Ouvretaferme =====
 
 Ouvretaferme a choisi la plateforme agréée <color blue>⏺ SUPER PDP</color> pour vous proposer une solution complète d'envoi et de réception des factures électroniques complètement intégré sur Ouvretaferme.
@@ -19,7 +18,6 @@ Pour commencer à utiliser la facturation électronique sur Ouvretaferme, vous d
 En moins de deux minutes, regardez comment activer votre plateforme agréée sur Ouvretaferme et être prêt·e pour le démarrage de la réforme !
 
 {{youtube>dl3BC-RirkI}}
-
 
 ===== Que permet de faire la facturation électronique ? =====
 
@@ -59,13 +57,11 @@ Lorsque vous avez saisi toutes les informations requises, votre facturation est 
 
 Vous pouvez consulter une vidéo de toutes ces étapes ci-dessous :
 
-{{youtube>_HxBL72E8CA}}
-
+{{youtube>_HxBL72E8CA?full}}
 
 ===== Rapprocher et indiquer l'encaissement d'une facture électronique =====
 
 <color #205160>__Disponible avec l'adhésion__</color>
-
 
 ==== Avec le rapprochement automatique ====
 
@@ -81,7 +77,6 @@ La plateforme agréée sera informée qu'un encaissement du montant indiqué a b
 
 Si c'est un encaissement partiel, le fonctionnement est exactement le même, et vous pourrez ajouter d'autres encaissements.
 
-
 ==== Manuellement ====
 
 Depuis l'opération bancaire, choisissez de rapprocher l'opération avec une facture électronique que vous avez émise.
@@ -96,7 +91,6 @@ Pour cette facture d'exemple, un encaissement partiel a été enregistré, et il
 
 {{:einvoicing:invoicing-reconciliation-manual-partial.png}}
 
-
 ===== Encaisser une facture électronique manuellement =====
 
 Comme pour vos ventes et factures, vous pouvez indiquer un règlement pour vos factures électroniques. Cet encaissement sera automatiquement envoyé sur la plateforme agréée.
@@ -106,7 +100,6 @@ Comme pour vos ventes et factures, vous pouvez indiquer un règlement pour vos f
 Le règlement, partiel ou total, s'affiche ensuite sur la facture et dans les événements de la facture électronique.
 
 {{:einvoicing:invoicing-add-partial-payment.png}}
-
 
 ===== Les statuts des factures électroniques =====
 
