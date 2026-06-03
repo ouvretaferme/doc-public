@@ -49,15 +49,20 @@ Si ce n'est pas le cas, Ouvretaferme ne vous permettra pas la clôture.
 
 Si le compte 108 n'est pas soldé, une écriture avec pour contrepartie le compte 101 sera créée.
 
-==== ③ Amortissements ====
+==== ③ Immobilisations ====
+
+Si des écritures d'immobilisation ou de subvention ont été enregistrées mais qu'aucune fiche d'immobilisation n'a été rattachée, elles apparaîtront dans cette section.
+Il faut créer des fiches d'immobilisation si vous souhaitez que l'amortissement soit calculé.
+
+==== ④ Amortissements ====
 
 Si vous avez des immobilisations à amortir, toutes les écritures comptables liées à l'amortissement de ces immobilisations seront listées.
 
-==== ④ Subventions ====
+==== ⑤ Subventions ====
 
 Si vous avez des subventions à amortir, les écritures comptables de ces subventions seront listées.
 
-==== ⑤ Factures Non Parvenues et Factures à Établir ====
+==== ⑥ Factures Non Parvenues et Factures à Établir ====
 
 En comptabilité d'engagement, vous pouvez indiquer dans cette section les FNP ou CCA et les FAE ou PCA. En les enregistrant dans un journal configuré comme "extournable", toutes les écritures de contrepassation seront créées automatiquement.
 
