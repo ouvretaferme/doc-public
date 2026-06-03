@@ -2,7 +2,8 @@
 
 ===== Créer un exercice =====
 
-[[https://youtu.be/q7YgDDGeZJg|🎦 Lien vers le tutoriel vidéo]]
+{{youtube>q7YgDDGeZJg?full}}
+
 
 ===== Réaliser le bilan d'ouverture =====
 
