@@ -46,6 +46,10 @@ Ouvrez le menu "puzzle", et choisissez "Plugin inline". Remplacez le texte fixme
 
 Puis sélectionner "Texte du bouton" et ajoutez-y votre lien depuis l'éditeur (icône de chaîne 🔗).
 
+Voici le rendu :
+
+<wrap --btn-secondary>Texte du bouton</wrap>
+
 
 ==== Astuce générale ====
 
