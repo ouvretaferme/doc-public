@@ -56,6 +56,10 @@ Lorsque vous avez saisi toutes les informations requises, votre facturation est 
 
 {{:einvoicing:invoicing-show.png}}
 
+Vous pouvez consulter une vidéo de toutes ces étapes ci-dessous :
+
+{{youtube>_HxBL72E8CA}}
+
 
 ===== Rapprocher et indiquer l'encaissement d'une facture électronique =====
 
