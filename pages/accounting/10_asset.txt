@@ -5,7 +5,6 @@ Pour que les amortissements se calculent automatiquement à chaque clôture, et 
   * soit créer une fiche 
   * soit sélectionner l'écriture comptable qui correspond à votre immobilisation et choisir "Créer une immobilisation" dans ses options.
 
-
 ===== Créer une immobilisation =====
 
 Choisissez les paramètres de votre immobilisation et validez pour la créer.
@@ -16,8 +15,24 @@ Choisissez les paramètres de votre immobilisation et validez pour la créer.
 
 Dès qu'elle a été amortie au moins une fois sur le logiciel, vous ne pourrez plus la modifier, mais vous pourrez toujours en faire une cession (vente ou mise au rebut) en fonction de votre besoin.
 
+===== Lier une immobilisation et une écriture comptable =====
 
-===== Comment importer mes immobilisations ? =====
+Une écriture comptable d'immobilisation ou de subvention doit toujours être rattachée à une fiche d'immobilisation.
+
+Pour faire le lien entre l'écriture comptable et son immobilisation, dans le menu de la roue crantée de l'écriture comptable, choisissez l'une des deux options :
+
+  * Créer une immobilisation (le formulaire sera donc pré-rempli avec les numéros de compte, la valeur d'acquisition)
+  * Rattacher une immobilisation :
+
+{{:accounting:asset-attach.png}}Cliquez sur "Rattacher" quand vous avez fini de sélectionner les immobilisations.
+
+Si vous avez besoin d'ajouter plusieurs écritures comptables à votre immobilisation, recommencez l'opération pour chaque écriture comptable concernée.
+
+Les écritures comptables que vous pouvez rattacher sont les comptes d'immobilisation, les comptes de subvention et les classes de charge (classe 6) pour les frais annexes.
+
+{{:accounting:asset-several-operation.png}}//Ci-dessus : immobilisation pour laquelle l'achat en 2154 et des frais en 622 ont été ajoutés. D'autres dépenses doivent probablement être ajoutées pour arriver au total de 2000€.//
+
+===== Comment importer des immobilisations ? =====
 
 Si vous avez déjà une comptabilité antérieure, il est très probable que vous ayez fait des acquisitions et que vous souhaitiez les reprendre en même temps que votre comptabilité sur Ouvretaferme.
 
