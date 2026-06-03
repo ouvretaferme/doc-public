@@ -21,7 +21,8 @@ Tout contenu qui ne respecte pas ces règles sera susceptible d'être supprimé 
 
 Utilisez de préférence l'éditeur avancé, cela vous permettra de voir en direct la manière dont votre contenu va s'afficher.
 
-Si vous souhaitez mettre de la couleur sur votre texte, il faut utiliser le code suivant : ''%%<color CODE>Mon texte en couleur</color>%%'' avec CODE : soit le code hexadecimal (par exemple #000000 pour noir), soit le nom reconnu en anglais (par exemple black pour noir)
+Si vous souhaitez mettre de la couleur sur votre texte, il faut utiliser le code suivant : ''%%<color CODE>Mon texte en couleur</color>%%'' avec CODE : soit le code hexadecimal (par exemple //#000000// pour noir), soit le nom reconnu en anglais (par exemple //black// pour noir)
+
 
 ==== Pour insérer une vidéo Youtube ====
 
