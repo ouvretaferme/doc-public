@@ -8,6 +8,8 @@ Pour que les amortissements se calculent automatiquement à chaque clôture, et 
 
 ===== Créer une immobilisation =====
 
+Choisissez les paramètres de votre immobilisation et validez pour la créer.
+
 {{:accounting:asset-create.png}}Une fois créée, vous pouvez tout de suite consulter son plan d'amortissement en cliquant dessus :
 
 {{:accounting:asset-fiche.png}}Tant qu'elle n'a pas été amortie une première fois sur Ouvretaferme, une immobilisation peut être modifiée ou supprimée.
