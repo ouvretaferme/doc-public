@@ -28,7 +28,9 @@ Si vous souhaitez mettre de la couleur sur votre texte, il faut utiliser le code
 
 Si vous souhaitez insérer un lien vers une vidéo et que la vidéo s'affiche, tout d'abord **contactez l'équipe pour que la vidéo soit enregistrée sur le compte Youtube de Ouvretaferme**.
 
-Ensuite, utiliser le code suivant :
+Puis choisissez le menu "puzzle" et cliquez sur "bloc d'extension" :
+
+{{:misc:contribute-extension.png}}Dans le bloc avec l'outil, indiquez le code suivant :
 
 ''%%{{youtube>ID_DE_LA_VIDEO?full}}%%''
 
@@ -38,7 +40,7 @@ Pour trouver la valeur ID_DE_LA_VIDEO, il faut regarder le lien. Par exemple, po
 
 === Pour insérer un lien sous forme de bouton ===
 
-Commencez par utiliser ce code :
+Ouvrez le menu "puzzle", et choisissez "Plugin inline". Remplacez le texte fixme par ce code :
 
 ''%%<wrap btn--secondary>Texte du bouton</wrap>%%''
 
