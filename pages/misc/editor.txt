@@ -33,6 +33,8 @@ Ensuite, utiliser le code suivant :
 
 Pour trouver la valeur ID_DE_LA_VIDEO, il faut regarder le lien. Par exemple, pour la vidéo sur la facturation électronique, le lien est [[https://youtu.be/dl3BC-RirkI]]. Donc la valeur ID_DE_LA_VIDEO est //dl3BC-RirkI//.
 
+//?full// sert à indiquer que la vidéo doit prendre toute la largeur d'affichage de l'article.
+
 
 ==== Astuce générale ====
 
