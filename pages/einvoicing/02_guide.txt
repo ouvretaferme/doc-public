@@ -38,6 +38,10 @@ Les factures électroniques suivent un cycle de vie en passant par différents s
 
 ===== Envoyer une facture sur la plateforme agréée =====
 
+Il faut avoir au préalable créé votre facture sur le logiciel.
+
+<wrap btn--secondary>[[selling:07_facturation|Consulter la documentation sur la facturation]]</wrap>
+
 === ① Rendez-vous sur la page de vos factures ===
 
 {{:einvoicing:invoicing-invoice.png}}
@@ -59,6 +63,7 @@ Lorsque vous avez saisi toutes les informations requises, votre facturation est 
 Vous pouvez consulter une vidéo de toutes ces étapes ci-dessous :
 
 {{youtube>_HxBL72E8CA?full}}
+
 
 ===== Rapprocher et indiquer l'encaissement d'une facture électronique =====
 
