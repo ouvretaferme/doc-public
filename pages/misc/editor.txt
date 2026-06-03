@@ -48,7 +48,7 @@ Puis sélectionner "Texte du bouton" et ajoutez-y votre lien depuis l'éditeur (
 
 Voici le rendu :
 
-<wrap --btn-secondary>Texte du bouton</wrap>
+<wrap btn--secondary>Texte du bouton</wrap>
 
 
 ==== Astuce générale ====
