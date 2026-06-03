@@ -2,6 +2,8 @@
 
 ===== Créer un exercice =====
 
+Pour démarrer la comptabilité sur Ouvretaferme, vous aurez besoin d'un exercice comptable. Cette vidéo vous présente comment faire cela :
+
 {{youtube>q7YgDDGeZJg?full}}
 
 
