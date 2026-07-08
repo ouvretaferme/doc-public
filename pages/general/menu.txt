@@ -1,6 +1,1 @@
 ====== Navigation Généralités ======
-
-* [[general:01_intro|Introduction]]
-* [[general:03_ergonomy|Principes ergonomiques]]
-* [[general:02_help|Obtenir de l'aide]]
-
